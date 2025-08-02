@@ -1,0 +1,74 @@
+Gene_ID,Gene_symbol,Gene_name,Gene_aliases,Chromosome,HomoloGene ID,additional_info,additional_info
+19,ABCA1,ATP-binding cassette,"TGD,ABC1,CERP,ABC-1,",9,21130,,ABCA1 summary
+9619,ABCG1,ATP-binding cassette,"ABC8,WHITE1",21,21022,,ABCG1 summary
+231,AKR1B1,aldo-keto reductase ,"AR,ADR,ALR2,ALDR1",7,110647,,AKR1B1 summary
+207,AKT1,v-akt murine thymoma,"AKT,PKB,RAC,CWS6,PRK",14,3785,signaling pathways,AKT1 summary
+366,AQP9,aquaporin 9,"SSC1,AQP-9,HsT17287",15,41405,,AQP9 summary
+6347,CCL2,chemokine (C-C motif,"HC11,MCAF,MCP1,MCP-1",17,2245,signaling pathways,CCL2 summary
+1234,CCR5,chemokine (C-C motif,"CKR5,CCR-5,CD195,CKR",3,37325,,CCR5 summary
+9332,CD163,CD163 molecule,"M130,MM130",12,128811,,CD163 summary
+948,CD36,CD36 molecule,"FAT, GP3B, GP4, GPIV",7,73871,,CD36 summary
+959,CD40LG,CD40 ligand,"IGM,IMD3,TRAP,gp39,C",X,56,,CD40LG summary
+960,CD44,CD44 molecule (India,"IN,LHR,MC56,MDU2,MDU",11,508,,CD44 summary
+963,CD53,CD53 molecule,"MOX44,TSPAN25",1,20152,,CD53 summary
+968,CD68,CD68 molecule,"GP110,LAMP4,SCARD1",17,955,,CD68 summary
+976,CD97,CD97 molecule,TM7LN1,19,8050,,CD97 summary
+1020,CDK5,cyclin-dependent kin,PSSALRE,7,3623,,CDK5 summary
+4261,CIITA,"class II, major hist","C2TA,NLRA,MHC2TA,CII",16,207,,CIITA summary
+1293,COL6A3,"collagen, type VI, a",,2,37917,,COL6A3 summary
+1401,CRP,"C-reactive protein, ",PTX1,1,128039,,CRP summary
+1471,CST3,cystatin C,ARMD11,20,78,,CST3 summary
+6376,CX3CL1,chemokine (C-X3-C mo,"NTN,NTT,CXC3,CXC3C,S",16,2251,,CX3CL1 summary
+3579,CXCR2,chemokine (C-X-C mot,"CD182,IL8R2,IL8RA,
+I",2,10439,signaling pathways,CXCR2 summary
+1559,CYP2C9,"cytochrome P450, fam","CPC9,CYP2C,CYP2C10,
+",10,128042,,CYP2C9 summary
+5167,ENPP1,ectonucleotide pyrop,"M6S1,NPP1,NPPS,PC-1,",6,38151,,ENPP1 summary
+953,ENTPD1,ectonucleoside triph,"CD39,SPG64,ATPDase,N",10,20423,,ENTPD1 summary
+2167,FABP4,fatty acid binding p,"aP2,ALBP,AFABP,A-FAB",8,36067,,FABP4 summary
+11167,FSTL1,follistatin-like 1,"FRP,FSL1,MIR198",3,5144,,FSTL1 summary
+2621,GAS6,growth arrest-specif,"AXSF,AXLLG",13,638,,GAS6 summary
+2844,GPR21,G protein-coupled re,,9,74546,,GPR21 summary
+51704,GPRC5B,G protein-coupled re,"RAIG2,RAIG-2",16,9435,,GPRC5B summary
+2941,GSTA4,glutathione S-transf,"GTA4,GSTA4-4",6,55585,,GSTA4 summary
+9734,HDAC9,histone deacetylase ,"HD7,HD9,HD7b,HDAC,HD",7,128578,,HDAC9 summary
+3091,HIF1A,hypoxia inducible fa,"HIF1,MOP1,PASD8,HIF-",14,1171,,HIF1A summary
+3375,IAPP,islet amyloid polype,"DAP,IAP",12,36024,,IAPP summary
+3383,ICAM1,Intercellular adhesi,"BB2,CD54",19,,,ICAM1 summary
+3458,IFNG,"interferon, gamma","IFG,IFI",12,55526,,IFNG summary
+3551,IKBKB,inhibitor of kappa l,"IKK2,IKKB,IMD15,NFKB",8,7782,signaling pathways,IKBKB summary
+3553,IL1B,"interleukin 1, beta","IL-1,IL1F2,IL1-BETA",2,481,,IL1B summary
+3569,IL6,interleukin 6,"HGF,HSF,BSF2,IL-6,IF",7,502,signaling pathways,IL6 summary
+3570,IL6R,interleukin 6 recept,"IL6Q,gp80,CD126,IL6R",1,474,signaling pathways,IL6R summary
+3643,INSR,insulin receptor,"HHF5,CD220",19,20090,signaling pathways,INSR summary
+3654,IRAK1,interleukin-1 recept,"IRAK,pelle",X,37496,,IRAK1 summary
+11213,IRAK3,interleukin-1 recept,"ASRT5,IRAKM",12,36215,,IRAK3 summary
+3661,IRF3,interferon regulator,,19,1208,,IRF3 summary
+3665,IRF7,interferon regulator,"IRF7A,IRF7B,IRF7C,IR",11,128624,,IRF7 summary
+8660,IRS2,insulin receptor sub,IRS-2,13,2778,signaling pathways,IRS2 summary
+3725,JUN,jun proto-oncogenep,"AP1, AP-1, c-Jun",1,,,JUN summary
+23028,KDM1A,lysine (K)-specific ,"AOF2,KDM1,LSD1,BHC11",1,32240,,KDM1A summary
+5606,MAP2K3,mitogen-activated pr,"MEK3,MKK3,MAPKK3,PRK",17,56430,,MAP2K3 summary
+9448,MAP4K4,mitogen-activated pr,"HGK,NIK,MEKKK4,FLH21",2,133348,,MAP4K4 summary
+5599,MAPK8,mitogen-activated pr,"JNK,JNK1,PRKM8,SAPK1",10,56760,signaling pathways,MAPK8 summary
+11320,MGAT4A,"mannosyl (alpha-1,3-","GNT-IV,GnT-4a,GNT-IV",2,8153,,MGAT4A summary
+4791,NFKB2,nuclear factor of ka,"p52,p105,H2TF1,LYT10",10,1873,,NFKB2 summary
+4792,NFKBIA,nuclear factor of ka,"IKBA,MAD-3,NFKBI",14,7863,,NFKBIA summary
+5360,PLTP,phospholipid transfe,"BPIFE,HDLCQ9",20,4536,signaling pathways,PLTP summary
+5468,PPARG,peroxisome prolifera,"GLM1,CIMT1,NR1C3,PPA",3,7899,signaling pathways,PPARG summary
+10891,PPARGC1A,peroxisome prolifera,"LEM6,PGC1,PGC1A,PGC-",4,7485,signaling pathways,PPARGC1A summary
+5579,PRKCB,"protein kinase C, be","PKCB,PRKCB1,PRKCB2,P",16,56424,,PRKCB summary
+23411,SIRT1,sirtuin 1,SIR2L1,10,56556,signaling pathways,SIRT1 summary
+8651,SOCS1,suppressor of cytoki,"JAB,CIS1,SSI1,TIP3,C",16,2776,,SOCS1 summary
+9021,SOCS3,suppressor of cytoki,"CIS3,SSI3,ATOD4,Cish",17,2941,signaling pathways,SOCS3 summary
+6648,SOD2,superoxide dismutase,"IPOB,MNSOD,MVCD6",6,530,signaling pathways,SOD2 summary
+79689,STEAP4,STEAP family member ,"TIARP,STAMP2,TNFAIP9",7,36422,,STEAP4 summary
+148022,TICAM1,toll-like receptor a,"TRIF,IIAE6,MyD88-3,P",19,8605,,TICAM1 summary
+7098,TLR3,toll-like receptor 3,"CD283,IIAE2",4,20696,,TLR3 summary
+7099,TLR4,toll-like receptor 4,"TOLL,CD284,TLR-4,ARM",9,41317,,TLR4 summary
+7100,TLR5,toll-like receptor 5,"TIL3,SLEB1,MELIOS",1,20698,,TLR5 summary
+7124,TNF,tumor necrosis facto,"DIF,TNFA,TNFSF2,TNF-",6,496,signaling pathways,TNF summary
+7127,TNFAIP1,tumor necrosis facto,"BACURD2,EDP1",14,4583,,TNFAIP1 summary
+7350,UCP1,uncoupling protein 1,"UCP,SLC25A7",4,22524,signaling pathways,UCP1 summary
+7351,UCP2,uncoupling protein 2,"UCPH,BMIQ4,SLC25A8",11,2516,,UCP2 summary
+7412,VCAM1,vascular cell adhesi,"CD106,INCAM-100",1,838,signaling pathways,VCAM1 summary

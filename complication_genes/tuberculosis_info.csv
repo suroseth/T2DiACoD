@@ -1,0 +1,20 @@
+Gene_ID,Gene_symbol,Gene_name,Gene_aliases,Chromosome,HomoloGene ID
+3099,HK2,hexokinase 2,HKII HXK2,2,37273
+940,CD28,CD28 molecule,Tp44,2,4473
+2694,GIF,gastric intrinsic factor (vitamin B synthesis),IF INF IFMH TCN3,11,3773
+3558,IL2,interleukin 2,IL-2 TCGF lymphokine,4,488
+7124,TNF,tumor necrosis factor,DIF TNFA TNFSF2 TNF-alpha,6,496
+112744,IL17F,interleukin 17F,ML1 ML-1 CANDF6 IL-17F,6,17115
+3553,IL1B,"interleukin 1, beta",IL-1 IL1F2 IL1-BETA,2,481
+3606,IL18,interleukin 18,IGIF IL-18 IL-1g IL1F4,11,1200
+3586,IL10,interleukin 10,CSIF TGIF GVHDS IL-10 IL10A,1,478
+3162,HMOX1,heme oxygenase 1,HO-1 HSP32 HMOX1D bK286B10,22,31075
+7079,TIMP4,TIMP metallopeptidase inhibitor 4,,3,37748
+3567,IL5,interleukin 5,EDF TRF IL-5,5,679
+3605,IL17A,interleukin 17A,IL17 CTLA8 IL-17 IL-17A,6,1651
+3916,LAMP1,lysosomal-associated membrane protein 1,LAMPA CD107a LGP120,13,4061
+3569,IL6,interleukin 6,HGF HSF BSF2 IL-6 IFNB2,7,502
+5551,PRF1,perforin 1 (pore forming protein),P1 PFP FLH2 PFN1 HPLH2,10,3698
+3002,GZMB,"granzyme B (granzyme 2, cytotoxic T-lymphocyte-ass",HLP CCPI CGL1 CSPB SECT CGL-1 CSP-B CTLA1 CTSGL1,14,108184
+3916,LAMP1,lysosomal-associated membrane protein 1,LAMPA CD107a LGP120,13,4061
+7421,VDR,"vitamin D (1,25- dihydroxyvitamin D3) receptor",NR1I1 PPP1R163,12,37297

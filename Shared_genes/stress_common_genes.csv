@@ -1,0 +1,93 @@
+Risk_factor/complication,Gene_symbol,Gene_ID,Gene_name,Gene_aliases,Chromosome,HomoloGene ID
+Atherosclerosis,CCL2,6347,chemokine (C-C motif,"HC11, MCAF, MCP1, MCP-1, SCYA2, GDCF-2, SMC-CF, HS",17,2245
+Atherosclerosis,CD36,948,CD36 molecule (throm,"FAT, GP4, GP3B, GPIV, CHDS7, PASIV, SCARB3, BDPLT1",7,73871
+Atherosclerosis,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Atherosclerosis,LDLR,3949,low density lipoprot,"FH, FHC, LDLCQ2",19,55469
+Atherosclerosis,PON2,5445,paraoxonase 2,                                          --,7,385
+Atherosclerosis,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Atherosclerosis,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Atherosclerosis,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Inflammation,AKT1,207,v-akt murine thymoma,"AKT,PKB,RAC,CWS6,PRKBA,
+PKB-ALPHA,RAC-ALPHA
+",14,3785
+Inflammation,CCL2,6347,chemokine (C-C motif,"HC11,MCAF,MCP1,MCP-1,SCYA2,
+GDCF-2,SMC-CF,HSMCR30",17,2245
+Inflammation,CD36,948,CD36 molecule,"FAT, GP3B, GP4, GPIV, SCARB3",7,73871
+Inflammation,GSTA4,2941,glutathione S-transf,"GTA4,GSTA4-4",6,55585
+Inflammation,IAPP,3375,islet amyloid polype,"DAP,IAP",12,36024
+Inflammation,INSR,3643,insulin receptor,"HHF5,CD220",19,20090
+Inflammation,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Inflammation,NFKB2,4791,nuclear factor of ka,"p52,p105,H2TF1,LYT10,
+CVID10,LYT-10,NF-kB2
+",10,1873
+Inflammation,PPARGC1A,10891,peroxisome prolifera,"LEM6,PGC1,PGC1A,PGC-1v,
+PPARGC1,PGC-1(alpha)
+",4,7485
+Inflammation,SOCS3,9021,suppressor of cytoki,"CIS3,SSI3,ATOD4,Cish3,SSI-3,SOCS-3",17,2941
+Inflammation,SOD2,6648,superoxide dismutase,"IPOB,MNSOD,MVCD6",6,530
+Inflammation,TLR4,7099,toll-like receptor 4,"TOLL,CD284,TLR-4,ARMD10",9,41317
+Inflammation,TNF,7124,tumor necrosis facto,"DIF,TNFA,TNFSF2,TNF-alpha",6,496
+Inflammation,UCP2,7351,uncoupling protein 2,"UCPH,BMIQ4,SLC25A8",11,2516
+Diet,AKT1,207,v-akt murine thymoma,"AKT, PKB, RAC, CWS6, PRKBA, PKB-ALPHA, RAC-ALPHA",14,3785
+Diet,IAPP,3375,islet amyloid polype,"DAP, IAP",12,36024
+Diet,IRS1,3667,insulin receptor sub,HIRS-1,2,4049
+Diet,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Diet,PDX1,3651,pancreatic and duode,"GSF, IPF1, IUF1, IDX-1, MODY4, PDX-1, STF-1",13,175
+Diet,PPARGC1A,10891,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Diet,PRSS8,5652,"protease, serine, 8","CAP1, PROSTASIN",16,20613
+Diet,SLC2A4,6517,solute carrier famil,GLUT4,17,74381
+Diet,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Diet,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Diet,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Diet,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Obesity,ALDH2,217,aldehyde dehydrogena,"ALDM, ALDHI, ALDH-E2",12,55480
+Obesity,CCL2,6347,chemokine (C-C motif,"HC11, MCAF, MCP1, MCP-1, SCYA2, GDCF-2, SMC-CF, HS",17,2245
+Obesity,CD36,948,CD36 molecule (throm,"FAT, GP4, GP3B, GPIV, CHDS7, PASIV, SCARB3, BDPLT1",7,73871
+Obesity,GSTP1,2950,glutathione S-transf,"PI, DFN7, GST3, GSTP, FAEES3, HEL-S-22",11,660
+Obesity,LDLR,3949,low density lipoprot,"FH, FHC, LDLCQ2",19,55469
+Obesity,PPARGC1A,10891,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Obesity,SLC2A4,6517,solute carrier famil,GLUT4,17,74381
+Obesity,SLC2A4,6517,solute carrier famil,GLUT4,17,74381
+Obesity,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Obesity,SOD2,6648,superoxide dismutase,"IPOB, MNSOD, MVCD6",6,530
+Obesity,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Obesity,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Nephropathy,ALDH2,217,aldehyde dehydrogena,"ALDM, ALDHI, ALDH-E2",12,55480
+Nephropathy,CCL2,6347,chemokine (C-C motif,"HC11, MCAF, MCP1, MCP-1, SCYA2, GDCF-2, SMC-CF, HS",17,2245
+Nephropathy,CD36,948,CD36 molecule (throm,"FAT, GP4, GP3B, GPIV, CHDS7, PASIV, SCARB3, BDPLT1",7,73871
+Nephropathy,GCK,2645,Glucokinase,HK4,7,NA
+Nephropathy,HFE,3077,hemochromatosis,"HH, HFE1, HLA-H, MVCD7, TFQTL2",6,88330
+Nephropathy,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Nephropathy,LDLR,3949,low density lipoprot,"FH, FHC, LDLCQ2",19,55469
+Nephropathy,PARP,143,Poly [ADP-ribose] po,"ADPRT, PPOL",1,124423
+Nephropathy,PON2,5445,paraoxonase 2,,7,385
+Nephropathy,PPARGC1A,10891,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Nephropathy,PTEN,5728,phosphatase and tens,"BZS, DEC, CWS1, GLM2, MHAM, TEP1, MMAC1, PTEN1, 10",10,265
+Nephropathy,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Nephropathy,SOD2,6648,superoxide dismutase,"IPOB, MNSOD, MVCD6",6,530
+Nephropathy,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Nephropathy,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Nephropathy,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Nephropathy,WFS1,7466,Wolfram syndrome 1 (,"WFS, WFRS, WFSL, CTRCT41",4,4380
+Neuropathy,ALDH2,217,aldehyde dehydrogena,"ALDM, ALDHI, ALDH-E2",12,55480
+Neuropathy,CCL2,6347,chemokine (C-C motif,"HC11, MCAF, MCP1, MCP-1, SCYA2, GDCF-2, SMC-CF, HS",17,2245
+Neuropathy,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Neuropathy,PARP,143,Poly [ADP-ribose] po,"ADPRT, PPOL",1,124423
+Neuropathy,SOD2,6648,superoxide dismutase,"IPOB, MNSOD, MVCD6",6,530
+Neuropathy,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Neuropathy,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Neuropathy,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Cardiovascular,ALDH2,217,aldehyde dehydrogena,"ALDM, ALDHI, ALDH-E2",12,55480
+Cardiovascular,CD36,948,CD36 molecule (throm,"FAT, GP4, GP3B, GPIV, CHDS7, PASIV, SCARB3, BDPLT1",7,73871
+Cardiovascular,GPX1,2876,glutathione peroxida,"GPXD, GSHPX1",3,20155
+Cardiovascular,PPARGC1A,10891,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Retinopathy,CCL2,6347,chemokine (C-C motif,"HC11, MCAF, MCP1, MCP-1, SCYA2, GDCF-2, SMC-CF, HS",17,2245
+Retinopathy,GAPDH,2597,glyceraldehyde-3-pho,"G3PD, GAPD, HEL-S-162eP",12,107053
+Retinopathy,GSTM1,2944,glutathione S-transf,"MU, H-B, GST1, GTH4, GTM1, MU-1, GSTM1-1, GSTM1a-1",1,121492
+Retinopathy,HFE,3077,hemochromatosis,"HH, HFE1, HLA-H, MVCD7, TFQTL2",6,88330
+Retinopathy,IRS1,3667,insulin receptor sub,HIRS-1,2,4049
+Retinopathy,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Retinopathy,SOD2,6648,superoxide dismutase,"IPOB, MNSOD, MVCD6",6,530
+Retinopathy,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Retinopathy,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Retinopathy,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516

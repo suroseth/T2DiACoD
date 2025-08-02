@@ -1,0 +1,36 @@
+Gene_ID,Gene_symbol,Gene_name,Gene_aliases,Chromosome,HomoloGene ID,additional_info,additional_info
+207,AKT1,v-akt murine thymoma,"AKT, PKB, RAC, CWS6,",14,3785,signaling pathways,AKT1 summary
+217,ALDH2,aldehyde dehydrogena,"ALDM, ALDHI, ALDH-E2",12,55480,,ALDH2 summary
+6347,CCL2,chemokine (C-C motif,"HC11, MCAF, MCP1, MC",17,2245,,CCL2 summary
+948,CD36,CD36 molecule (throm,"FAT, GP4, GP3B, GPIV",7,73871,,CD36 summary
+1991,ELANE,"elastase, neutrophil","GE, NE, HLE, HNE, EL",19,20455,,ELANE summary
+2597,GAPDH,glyceraldehyde-3-pho,"G3PD, GAPD, HEL-S-16",12,107053,signaling pathways,GAPDH summary
+2645,GCK,glucokinase (hexokin,"GK, GLK, HK4, HHF3, ",7,55440,signaling pathways,GCK summary
+2876,GPX1,glutathione peroxida,"GPXD, GSHPX1",3,20155,,GPX1 summary
+2941,GSTA4,glutathione S-transf,"GTA4, GSTA4-4",6,55585,,GSTA4 summary
+2944,GSTM1,glutathione S-transf,"MU, H-B, GST1, GTH4,",1,121492,,GSTM1 summary
+2950,GSTP1,glutathione S-transf,"PI, DFN7, GST3, GSTP",11,660,,GSTP1 summary
+3077,HFE,hemochromatosis,"HH, HFE1, HLA-H, MVC",6,88330,,HFE summary
+3375,IAPP,islet amyloid polype,"DAP, IAP",12,36024,signaling pathways,IAPP summary
+3643,INSR,insulin receptor,"HHF5, CD220",19,20090,signaling pathways,INSR summary
+3667,IRS1,insulin receptor sub,HIRS-1,2,4049,signaling pathways,IRS1 summary
+8660,IRS2,insulin receptor sub,IRS-2,13,2778,,IRS2 summary
+3949,LDLR,low density lipoprot,"FH, FHC, LDLCQ2",19,55469,,LDLR summary
+4791,NFKB2,nuclear factor of ka,"p52, p105, H2TF1, LY",10,1873,signaling pathways,NFKB2 summary
+143,PARP,Poly [ADP-ribose] po,"ADPRT, PPOL",1,124423,,PARP summary
+3651,PDX1,pancreatic and duode,"GSF, IPF1, IUF1, IDX",13,175,,PDX1 summary
+5445,PON2,paraoxonase 2,,7,385,signaling pathways,PON2 summary
+10891,PPARGC1A,peroxisome prolifera,"LEM6, PGC1, PGC1A, P",4,7485,,PPARGC1A summary
+5652,PRSS8,"protease, serine, 8","CAP1, PROSTASIN",16,20613,signaling pathways,PRSS8 summary
+5728,PTEN,phosphatase and tens,"BZS, DEC, CWS1, GLM2",10,265,,PTEN summary
+10928,RALBP1,ralA binding protein,"RIP1,RLIP1,RLIP76",18,4940,,RALBP1 summary
+6517,SLC2A4,solute carrier famil,GLUT4,17,74381,signaling pathways,SLC2A4 summary
+9021,SOCS3,suppressor of cytoki,"CIS3, SSI3, ATOD4, C",17,2941,signaling pathways,SOCS3 summary
+6648,SOD2,superoxide dismutase,"IPOB, MNSOD, MVCD6",6,530,signaling pathways,SOD2 summary
+7037,TFRC,transferrin receptor,"T9,TR,TFR,p90,CD71,T",3,2429,,
+7099,TLR4,toll-like receptor 4,"TOLL, CD284, TLR-4, ",9,41317,signaling pathways,TLR4 summary
+7124,TNF,tumor necrosis facto,"DIF, TNFA, TNFSF2, T",6,496,signaling pathways,TNF summary
+7296,TXNRD1,thioredoxin reductas,"TR, TR1, TXNR, TRXR1",12,55733,,TXNRD1 summary
+10587,TXNRD2,thioredoxin reductas,"TR, TR3, SELZ, TRXR2",22,4701,,TXNRD2 summary
+7351,UCP2,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516,signaling pathways,UCP2 summary
+7466,WFS1,Wolfram syndrome 1 (,"WFS, WFRS, WFSL, CTR",4,4380,,WFS1 summary

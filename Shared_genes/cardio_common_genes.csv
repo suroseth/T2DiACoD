@@ -1,0 +1,201 @@
+Risk_factor/complication,Gene_symbol,Gene_ID,Gene_name,Gene_aliases,Chromosome,HomoloGene ID
+Diet,1636,ACE,Angiotensin I converting enzyme,DCP ACE1 DCP1 CD143,17,37351
+Diet,59272,ACE2,angiotensin I converting enzyme 2 ,ACEH,X,41448
+Diet,9370,ADIPOQ,"adiponectin, C1Q and collagen domain containing ","ACDC, ADPN, APM1, APM-1, GBP28, ACRP30, ADIPQTL1",3,3525
+Diet,177,AGER,advanced glycosylation end product-specific receptor ,RAGE,6,883
+Diet,217,ALDH2,aldehyde dehydrogenase 2 family (mitochondrial),"ALDM, ALDHI, ALDH-E2",12,55480
+Diet,348,APOE,apolipoprotein E ,"AD2, LPG, APO-E, LDLCQ5",19,30951
+Diet,350,APOH,apolipoprotein H (be,"BG,  B2G1,  B2GP1",17,26
+Diet,948,CD36,CD36 molecule ,"FAT, GP4, GP3B, GPIV, CHDS7, PASIV, SCARB3, BDPLT10",7,73871
+Diet,958,CD40,"CD40 molecule, TNF receptor superfamily member 5 ","p50, Bp50, CDW40, TNFRSF5",20,954
+Diet,54901,CDKAL1,CDK5 regulatory subunit associated protein 1-like 1 ,,6,9830
+Diet,1071,CETP,"cholesteryl ester transfer protein, plasma ","BPIFF, HDLCQ10",16,47904
+Diet,1116,CHI3L1,chitinase 3 like 1,"GP39, ASRT7, GP-39, YKL40, CGP-39, YKL-40, YYL-40, HC-gp39, HCGP-3P, hCGP-39",1,55569
+Diet,1398,CRK,v-crk avian sarcoma virus CT10 oncogene homolog ,"p38, CRKII",17,81850
+Diet,1401,CRP,"C-reactive protein, pentraxin-related",PTX1,1,128039
+Diet,1649,DDIT3,D-damage-inducible transcript 3,"CHOP,  CEBPZ,  CHOP10,  CHOP-10,  GADD153",12,3012
+Diet,1803,DPP4,dipeptidyl-peptidase 4,"CD26,  ADABP,  ADCP2,  DPPIV,  TP103",2,3279
+Diet,2056,EPO,erythropoietin ,"EP, MVCD2",7,624
+Diet,2167,FABP4,"fatty acid binding protein 4, adipocyte ","aP2, ALBP, AFABP, A-FABP, HEL-S-104",8,36067
+Diet,2171,FABP5,fatty acid binding protein 5 (psoriasis-associated) ,"EFABP, KFABP, E-FABP, PAFABP, PA-FABP",8,108238
+Diet,2867,FFAR2,free fatty acid receptor 2 ,"FFA2R, GPR43",19,133911
+Diet,9965,FGF19,fibroblast growth factor 19,,11,3754
+Diet,26291,FGF21,fibroblast growth factor 21,,19,10428
+Diet,79068,FTO,fat mass and Obesity associated ,"GDFD, ALKBH9",16,8053
+Diet,2539,G6PD,glucose-6-phosphate dehydrogenase,G6PD1,X,37906
+Diet,2646,GCKR,glucokinase (hexokinase 4) regulator,"GKRP,  FGQTL5",2,1139
+Diet,2678,GGT1,gamma-glutamyltransferase 1 ,"GGT, GTG, CD224, GGT, 1, D22S672, D22S732",22,68450
+Diet,2695,GIP,gastric inhibitory polypeptide,,17,3043
+Diet,2876,GPX1,glutathione peroxidase 1 ,"GPXD, GSHPX1",3,20155
+Diet,3479,IGF1,insulin like growth factor 1 ,"MGF, IGFI, IGF-I",12,515
+Diet,3606,IL18,interleukin 18 ,"IGIF, IL-18, IL-1g, IL1F4",11,1200
+Diet,3630,INS,insulin,"IDDM,  ILPR,  IRDN,  IDDM1,  IDDM2,  MODY10",11,173
+Diet,3949,LDLR,low density lipoprotein receptor,"FH, FHC, LDLCQ2",19,55469
+Diet,4153,MBL2,"Mannose-binding lectin (protein C) 2, soluble ","MBL, MBP, MBP1, MBPD, MBL2D, MBP-C, COLEC1, HSMBPC",10,110436
+Diet,50639,MBL3P,"mannose-binding lectin family member 3, pseudogene ","MBL, COLEC2",10,50639
+Diet,4160,MC4R,melanocortin 4 receptor,,18,4320
+Diet,10135,NAMPT,nicotinamide phosphoribosyltransferase ,"VF, PBEF, PBEF1, VISFATIN, 1110035O14Rik",7,4201
+Diet,4846,NOS3,nitric oxide synthase 3 ,"eNOS, ECNOS",7,504
+Diet,4306,NR3C2,nuclear receptor subfamily 3 group C member 2,"MR,  MCR,  MLR,  NR3C2VIT",4,121495
+Diet,4925,NUCB2,nucleobindin 2,"NEFA,  HEL-S-109",11,3676
+Diet,5444,PON1,paraoxonase 1 ,"ESA, PON, MVCD5",7,68058
+Diet,10891,PPARGC1A,"peroxisome proliferator-activated receptor gamma, coactivator 1 alpha ","LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Diet,5741,PTH,parathyroid hormone,PTH1,11,266
+Diet,5770,PTPN1,"protein tyrosine phosphatase, non-receptor type 1 ",PTP1B,20,2119
+Diet,5950,RBP4,retinol binding protein 4 ,"RDCCAS, MCOPCB10",10,4908
+Diet,6934,TCF7L2,"transcription factor 7-like 2 (T-cell specific, HMG-box) ","TCF4, TCF-4",10,7564
+Diet,4982,TNFRSF11B,tumor necrosis factor receptor superfamily member 11b ,"OPG, TR1, OCIF, PDB5",8,1912
+Diet,493829,TRIM72,tripartite motif containing 72,MG53,16,66924
+Diet,TRIM72,493829,tripartite motif containing 72,MG53,16,66924
+Inflammation,9619,ABCG1,ATP binding cassette subfamily G member 1 ,"ABC8, WHITE1",21,21022
+Inflammation,59272,ACE2,angiotensin I converting enzyme 2 ,ACEH,X,41448
+Inflammation,9370,ADIPOQ,"adiponectin, C1Q and collagen domain containing 
+","ACDC, ADPN, APM1, APM-1, GBP28, ACRP30, ADIPQTL1",3,3525
+Inflammation,177,AGER,advanced glycosylation end product-specific receptor ,RAGE,6,883
+Inflammation,217,ALDH2,aldehyde dehydrogenase 2 family (mitochondrial),"ALDM, ALDHI, ALDH-E2",12,55480
+Inflammation,80216,ALPK1,alpha kinase 1,"LAK,  8430410J10Rik",4,11849
+Inflammation,348,APOE,apolipoprotein E,"AD2, LPG, LDLCQ5",19,30951
+Inflammation,919,CD247,CD247 molecule ,"T3Z, CD3H, CD3Q, CD3Z, TCRZ, IMD25, CD3-ZETA",1,12818
+Inflammation,948,CD36,CD36 molecule ,"FAT, GP4, GP3B, GPIV, CHDS7, PASIV, SCARB3, BDPLT10",7,73871
+Inflammation,920,CD4,CD4 molecule,CD4mut,12,513
+Inflammation,958,CD40,"CD40 molecule, TNF receptor superfamily member 5 ","p50, Bp50, CDW40, TNFRSF5",20,954
+Inflammation,1116,CHI3L1,chitinase 3 like 1,"GP39, ASRT7, GP-39, YKL40, CGP-39, YKL-40, YYL-40, HC-gp39, HCGP-3P, hCGP-39",1,55569
+Inflammation,1398,CRK,v-crk avian sarcoma virus CT10 oncogene homolog ,"p38, CRKII",17,81850
+Inflammation,1581,CYP7A1,cytochrome P450 family 7 subfamily A member 1,"CP7A,  CYP7,  CYPVII",8,30987
+Inflammation,1649,DDIT3,D-damage-inducible transcript 3,"CHOP,  CEBPZ,  CHOP10,  CHOP-10,  GADD153",12,3012
+Inflammation,22943,DKK1,dickkopf WNT signaling pathway inhibitor 1 ,"SK, DKK-1",10,7689
+Inflammation,1803,DPP4,dipeptidyl-peptidase 4,"CD26,  ADABP,  ADCP2,  DPPIV,  TP103",2,3279
+Inflammation,2022,ENG,endoglin,"END,  HHT1,  ORW1",9,92
+Inflammation,2056,EPO,erythropoietin ,"EP, MVCD2",7,624
+Inflammation,2167,FABP4,"fatty acid binding protein 4, adipocyte ","aP2, ALBP, AFABP, A-FABP, HEL-S-104",8,36067
+Inflammation,2171,FABP5,fatty acid binding protein 5 (psoriasis-associated) ,"EFABP, KFABP, E-FABP, PAFABP, PA-FABP",8,108238
+Inflammation,2867,FFAR2,free fatty acid receptor 2 ,"FFA2R, GPR43",19,133911
+Inflammation,26291,FGF21,fibroblast growth factor 21 ,,19,10428
+Inflammation,79068,FTO,fat mass and Obesity associated,"GDFD, ALKBH9",16,8053
+Inflammation,2539,G6PD,glucose-6-phosphate dehydrogenase ,G6PD1,X,37906
+Inflammation,2678,GGT1,gamma-glutamyltransferase 1 ,"GGT, GTG, CD224, GGT, 1, D22S672, D22S732",22,68450
+Inflammation,2740,GLP1R,glucagon like peptide 1 receptor,"GLP-1, GLP-1R, GLP-1-R",6,1558
+Inflammation,2952,GSTT1,glutathione S-transferase theta 1 ,,22,89133
+Inflammation,3146,HMGB1,high mobility group box 1,"HMG1,  HMG3,  HMG-1,  SBP-1",13,110676
+Inflammation,3479,IGF1,insulin like growth factor 1 ,"MGF, IGFI, IGF-I",12,515
+Inflammation,3606,IL18,interleukin 18 ,"IGIF, IL-18, IL-1g, IL1F4",11,1200
+Inflammation,3553,IL1B,interleukin 1 beta,IL-1 IL1F2 IL1beta IL1-BETA,2,481
+Inflammation,3630,INS,insulin,"IDDM,  ILPR,  IRDN,  IDDM1,  IDDM2,  MODY10",11,173
+Inflammation,221895,JAZF1,JAZF zinc finger 1,TIP27 ZNF802,7,18291
+Inflammation,4217,MAP3K5,mitogen-activated protein kinase kinase kinase 5,"ASK1, MEKK5, MAPKKK5",6,38114
+Inflammation,4153,MBL2,"mannose-binding lectin (protein C) 2, soluble ","MBL, MBP, MBP1, MBPD, MBL2D, MBP-C, COLEC1, HSMBPC",10,110436
+Inflammation,50639,MBL3P,"mannose-binding lectin family member 3, pseudogene ","MBL, COLEC2",10,
+Inflammation,10135,NAMPT,nicotinamide phosphoribosyltransferase ,"VF, PBEF, PBEF1, VISFATIN, 1110035O14Rik",7,4201
+Inflammation,114548,NLRP3,"NLR family, pyrin domain containing 3","AII,  AVP,  FCU,  MWS,  FCAS,  CIAS1,  FCAS1,  LP3,  C1orf7,  CLR1.1,  PYPAF1,  AGTAVPRL",1,3600
+Inflammation,4846,NOS3,nitric oxide synthase 3 ,"eNOS, ECNOS",7,504
+Inflammation,4925,NUCB2,nucleobindin 2,"NEFA,  HEL-S-109",11,3676
+Inflammation,255738,PCSK9,proprotein convertase subtilisin/kexin type 9,"FH3,  PC9,  RC1,  LDLCQ1,  RC-1,  HCHOLA3",1,17790
+Inflammation,5444,PON1,paraoxonase 1 ,"ESA, PON, MVCD5",7,68058
+Inflammation,5465,PPARA,peroxisome proliferator activated receptor alpha,"PPAR,  NR1C1,  hPPAR,  PPARalpha",22,21047
+Inflammation,5770,PTPN1,"protein tyrosine phosphatase, non-receptor type 1 ",PTP1B,20,2119
+Inflammation,5950,RBP4, retinol binding protein 4 ,"RDCCAS, MCOPCB10",10,4908
+Inflammation,56729,RETN,resistin,,19,10703
+Inflammation,6283,S100A12,S100 calcium binding protein A12 ,"p6, CAGC, CGRP, MRP6, CAAF1, MRP-6, ENRAGE",1,48361
+Inflammation,6425,SFRP5,secreted frizzled related protein 5,SARP3,10,2268
+Inflammation,6513,SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1","CSE,  PED,  DYT9,  GLUT,  DYT17,  DYT18,  EIG12,  GLUT1,  HTLVR,  GL",1,68520
+Inflammation,6524,SLC5A2,solute carrier family 5 member 2,SGLT2,16,2289
+Inflammation,6524,SLC5A2,solute carrier family 5 member 2,SGLT2,16,2289
+Inflammation,6696,SPP1,secreted phosphoprotein 1,"OPN,  BNSP,  BSPI,  ETA-1",4,20156
+Inflammation,6761,ST2,suppression of tumorigenicity 2,NA,11,NA
+Inflammation,6934,TCF7L2,"transcription factor 7-like 2 (T-cell specific, HMG-box)","TCF4, TCF-4",10,7564
+Inflammation,4982,TNFRSF11B,tumor necrosis factor receptor superfamily member 11b ,"OPG, TR1, OCIF, PDB5",8,1912
+Inflammation,57761,TRIB3,tribbles pseudokinase 3,"NIPK,  SINK,  TRB3,  SKIP3,  C20orf97",20,10902
+Obesity,9619,ABCG1,ATP binding cassette subfamily G member 1 ,"ABC8, WHITE1",21,21022
+Obesity,130399,ACVR1C,activin A receptor type IC ,"ALK7, ACVRLK7",2,26724
+Obesity,9370,ADIPOQ,"adiponectin, C1Q and collagen domain containing ","ACDC, ADPN, APM1, APM-1, GBP28, ACRP30, ADIPQTL1",3,3525
+Obesity,51094,ADIPOR1,adiponectin receptor 1 ,"CGI45, PAQR1, ACDCR1, CGI-45, TESBP1A",1,69199
+Obesity,177,AGER,advanced glycosylation end product-specific receptor ,RAGE,6,883
+Obesity,348,APOE,apolipoprotein E ,"AD2, LPG, APO-E, LDLCQ5",19,30951
+Obesity,948,CD36, CD36 molecule ,"FAT, GP4, GP3B, GPIV, CHDS7, PASIV, SCARB3, BDPLT10",7,73871
+Obesity,920,CD4,Cd4 molecule,CD4mut,12,513
+Obesity,958,CD40,"CD40 molecule, TNF receptor superfamily member 5 ","p50, Bp50, CDW40, TNFRSF5",20,954
+Obesity,54901,CDKAL1,CDK5 regulatory subunit associated protein 1-like 1,,6,9830
+Obesity,1071,CETP,"cholesteryl ester transfer protein, plasma ","BPIFF, HDLCQ10",16,47904
+Obesity,1116,CHI3L1,"
+    chitinase 3 like 1 ","GP39, ASRT7, GP-39, YKL40, CGP-39, YKL-40, YYL-40, HC-gp39, HCGP-3P, hCGP-39",1,55569
+Obesity,1398,CRK,v-crk avian sarcoma virus CT10 oncogene homolog ,"p38, CRKII",17,81850
+Obesity,22943,DKK1,dickkopf WNT signaling pathway inhibitor 1 ,"SK, DKK-1",10,7689
+Obesity,1803,DPP4,dipeptidyl-peptidase 4,"CD26,  ADABP,  ADCP2,  DPPIV,  TP103",2,3279
+Obesity,2168,FABP1,"fatty acid binding protein 1, liver","FABPL,  L-FABP",2,1106
+Obesity,2167,FABP4,"fatty acid binding protein 4, adipocyte ","aP2, ALBP, AFABP, A-FABP, HEL-S-104",8,36067
+Obesity,2171,FABP5,fatty acid binding protein 5 (psoriasis-associated) ,"EFABP, KFABP, E-FABP, PAFABP, PA-FABP",8,108238
+Obesity,2867,FFAR2,free fatty acid receptor 2 ,"FFA2R, GPR43",19,133911
+Obesity,9965,FGF19,fibroblast growth factor 19,,11,3754
+Obesity,26291,FGF21,fibroblast growth factor 21 ,,19,10428
+Obesity,79068,FTO,fat mass and Obesity associated ,"GDFD, ALKBH9",16,8053
+Obesity,2539,G6PD,glucose-6-phosphate dehydrogenase ,G6PD1,X,37906
+Obesity,2678,GGT1,gamma-glutamyltransferase 1 ,"GGT, GTG, CD224, GGT, 1, D22S672, D22S732",22,68450
+Obesity,2695,GIP,gastric inhibitory polypeptide,,17,3043
+Obesity,2740,GLP1R,Glucagon like peptide 1 receptor,GLP-1 GLP-1R GLP-1-R,6,1558
+Obesity,3087,HHEX,hematopoietically expressed homeobox ,"HEX, PRH, HMPH, PRHX, HOX11L-PEN",10,31110
+Obesity,3240,HP,haptoglobin,BP HPA1S HP2ALPHA2,16,121756
+Obesity,3479,IGF1,insulin like growth factor 1 ,"MGF, IGFI, IGF-I",12,515
+Obesity,3606,IL18,"
+    interleukin 18 ","IGIF, IL-18, IL-1g, IL1F4",11,1200
+Obesity,3630,INS,insulin,"IDDM,  ILPR,  IRDN,  IDDM1,  IDDM2,  MODY10",11,173
+Obesity,221895,JAZF1,JAZF zinc finger 1 ,"TIP27, ZNF802",7,18291
+Obesity,4153,MBL2,"mannose-binding lectin (protein C) 2, soluble ","MBL, MBP, MBP1, MBPD, MBL2D, MBP-C, COLEC1, HSMBPC",10,110436
+Obesity,50639,MBL3P,"mannose-binding lectin family member 3, pseudogene ","MBL, COLEC2",10,
+Obesity,4160,MC4R,melanocortin 4 receptor,,18,4320
+Obesity,10135,NAMPT,nicotinamide phosphoribosyltransferase ,"VF, PBEF, PBEF1, VISFATIN, 1110035O14Rik",7,4201
+Obesity,4846,NOS3, nitric oxide synthase 3 ,"eNOS, ECNOS",7,504
+Obesity,4887,NPY2R,neuropeptide Y receptor Y2 ,NPY2-R,4,701
+Obesity,4889,NPY5R,neuropeptide Y receptor Y5 ,"NPYR5, NPY5-R, NPYY5-R",4,21241
+Obesity,1728,NQO1,"NAD(P)H dehydrogenase, quinone 1 ","DTD, QR1, DHQU, DIA4, NMOR1, NMORI",16,695
+Obesity,4306,NR3C2,nuclear receptor subfamily 3 group C member 2,"MR,  MCR,  MLR,  NR3C2VIT",4,121495
+Obesity,5020,OXT,oxytocin/neurophysin I prepropeptide,"OT,  OT-NPI,  OXT-NPI",20,55494
+Obesity,255738,PCSK9,proprotein convertase subtilisin/kexin type 9,"FH3,  PC9,  RC1,  LDLCQ1,  RC-1,  HCHOLA3",1,17790
+Obesity,123,PLIN2,perilipin 2,"ADFP, ADRP",9,872
+Obesity,80339,PNPLA3,patatin like phospholipase domain containing 3,"ADPN,C22orf20,iPLA(2)epsilon",22,11883
+Obesity,5443,POMC,proopiomelanocortin,"LPH,  MSH,  NPP,  POC,  ACTH,  CLIP",2,723
+Obesity,5444,PON1,paraoxonase 1 ,"ESA, PON, MVCD5",7,68058
+Obesity,5465,PPARA,peroxisome proliferator activated receptor alpha,"PPAR,  NR1C1,  hPPAR,  PPARalpha",22,21047
+Obesity,10891,PPARGC1A,"peroxisome proliferator-activated receptor gamma, coactivator 1 alpha ","LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Obesity,5770,PTPN1,"protein tyrosine phosphatase, non-receptor type 1 ",PTP1B,20,2119
+Obesity,5919,RARRES2,retinoic acid receptor responder 2,"TIG2,HP10433",7,2167
+Obesity,5950,RBP4,retinol binding protein 4 ,"RDCCAS, MCOPCB10",10,4908
+Obesity,5972,REN,renin,HNFJ2,1,20151
+Obesity,56729,RETN,resistin,NA,19,10703
+Obesity,6462,SHBG,sex hormone-binding globulin,"ABP,  SBP,  TEBG",17,813
+Obesity,6524,SLC5A2,solute carrier family 5 member 2,SGLT2,16,2289
+Obesity,6524,SLC5A2,solute carrier family 5 member 2,SGLT2,16,2289
+Obesity,6934,TCF7L2,"transcription factor 7-like 2 (T-cell specific, HMG-box) ","TCF4, TCF-4",10,7564
+Obesity,4982,TNFRSF11B,tumor necrosis factor receptor superfamily member 11b ,"OPG, TR1, OCIF, PDB5",8,1912
+Obesity,7515,XRCC1,X-ray repair complementing defective repair in Chinese hamster cells 1,RCC,19,31368
+Stress,9619,ABCG1,ATP binding cassette subfamily G member 1 ,"ABC8, WHITE1",21,21022
+Stress,59272,ACE2,angiotensin I converting enzyme 2 ,ACEH,X,41448
+Stress,9370,ADIPOQ,"adiponectin, C1Q and collagen domain containing ","ACDC, ADPN, APM1, APM-1, GBP28, ACRP30, ADIPQTL1",3,3525
+Stress,177,AGER,advanced glycosylation end product-specific receptor ,RAGE,6,883
+Stress,217,ALDH2,aldehyde dehydrogenase 2 family (mitochondrial) ,"ALDM, ALDHI, ALDH-E2",12,55480
+Stress,348,APOE,apolipoprotein E ,"AD2, LPG, APO-E, LDLCQ5",19,30951
+Stress,948,CD36,CD36 molecule ,"FAT, GP4, GP3B, GPIV, CHDS7, PASIV, SCARB3, BDPLT10",7,73871
+Stress,958,CD40,"CD40 molecule, TNF receptor superfamily member 5 ","p50, Bp50, CDW40, TNFRSF5",20,954
+Stress,1029,CDKN2A,cyclin-dependent kinase inhibitor 2A ,"ARF, MLM, P14, P16, P19, CMM2, INK4, MTS1, TP16, CDK4I, CDKN2, INK4A, MTS-1, P14ARF, P19AR",9,55430
+Stress,1398,CRK,v-crk avian sarcoma virus CT10 oncogene homolog ,"p38, CRKII",17,81850
+Stress,1956,EGFR,epidermal growth factor receptor,"ERBB, HER1, mE, ERBB1, PIG61, NISBD2",7,74545
+Stress,26291,FGF21,fibroblast growth factor 21 ,,19,10428
+Stress,79068,FTO,fat mass and Obesity associated ,"GDFD, ALKBH9",16,8053
+Stress,2539,G6PD,glucose-6-phosphate dehydrogenase,G6PD1,X,37906
+Stress,2641,GCG,glucagon,"GLP1,GLP2,GRPP",2,136497
+Stress,2678,GGT1,gamma-glutamyltransferase 1 ,"GGT, GTG, CD224, GGT, 1, D22S672, D22S732",22,68450
+Stress,2740,GLP1R,glucagon like peptide 1 receptor,"GLP-1, GLP-1R, GLP-1-R",11,1558
+Stress,2752,GLUL,glutamate-ammonia ligase,"GS, GLNS, PIG43, PIG59",1,37567
+Stress,2876,GPX1,glutathione peroxidase 1 ,"GPXD, GSHPX1",3,20155
+Stress,156,GRK2,G protein-coupled receptor kinase 2,BARK1 ADRBK1 BETA-ARK1,11,1223
+Stress,2952,GSTT1,glutathione S-transferase theta 1 ,,22,57104
+Stress,3479,IGF1,insulin like growth factor 1 ,"MGF, IGFI, IGF-I",12,515
+Stress,3606,IL18,interleukin 18 ,"IGIF, IL-18, IL-1g, IL1F4",11,1200
+Stress,3952,LEP,leptin,"OB, OBS, LEPD",7,193
+Stress,10135,NAMPT,nicotinamide phosphoribosyltransferase ,"VF, PBEF, PBEF1, VISFATIN, 1110035O14Rik",7,4201
+Stress,4846,NOS3,nitric oxide synthase 3 ,"eNOS, ECNOS",7,504
+Stress,1728,NQO1,"NAD(P)H dehydrogenase, quinone 1 ","DTD, QR1, DHQU, DIA4, NMOR1, NMORI",16,695
+Stress,5444,PON1,paraoxonase 1 ,"ESA, PON, MVCD5",7,68058
+Stress,5770,PTPN1,"protein tyrosine phosphatase, non-receptor type 1 ",PTP1B,20,2119
+Stress,5950,RBP4,retinol binding protein 4 ,"RDCCAS, MCOPCB10",10,4908
+Stress,6649,SOD3,superoxide dismutase 3,EC-SOD,4,2334
+Stress,4982,TNFRSF11B,tumor necrosis factor receptor superfamily member 11b ,"OPG, TR1, OCIF, PDB5",8,1912

@@ -1,0 +1,59 @@
+Gene_ID,Gene_symbol,Gene_name,Gene_aliases,Chromosome,HomoloGene ID,additional_info,additional_info
+197,AHSG,alpha-2-HS-glycoprot,"AHS, A2HS, HSGA, FET",3,1225,,AHSG summary
+207,AKT1,v-akt murine thymoma,"AKT, PKB, RAC, CWS6,",14,3785,signaling pathways,AKT1 summary
+301,ANXA1,annexin A1,"ANX1, LPC1",9,563,,ANXA1 summary
+348,APOE,apolipoprotein E,"AD2, LPG, LDLCQ5",19,30951,,APOE summary
+409,ARRB2,"arrestin, beta 2","ARB2, ARR2, BARR2",17,3183,,ARRB2 summary
+868,CBLB,Cbl proto-oncogene B,"Cbl-b, RNF56, Nbla00",3,15856,signaling pathways,CBLB summary
+1234,CCR5,chemokine (C-C motif,"CKR5, CCR-5, CD195, ",3,37325,signaling pathways,CCR5 summary
+968,CD68,CD68 molecule,"GP110, LAMP4, SCARD1",17,955,,CD68 summary
+200186,CRTC2,CREB regulated trans,"TORC2, TORC-2",1,18765,signaling pathways,CRTC2 summary
+3579,CXCR2,chemokine (C-X-C mot,"CD182, IL8R2, IL8RA,",2,10439,signaling pathways,CXCR2 summary
+8694,DGAT1,diacylglycerol O-acy,"ARAT, DGAT, ARGP1",8,7688,,DGAT1 summary
+1843,DUSP1,dual specificity pho,"HVH1, MKP1, CL100, M",5,3254,signaling pathways,DUSP1 summary
+60343,FAM3A,family with sequence,"DLD, 2.19, XAP-7, DX",X,11042,,FAM3A summary
+2844,GPR21,G protein-coupled re,,9,74546,,GPR21 summary
+2863,GPR39,G protein-coupled re,"LP,AK38,APOA",2,20380,,GPR39 summary
+3375,IAPP,islet amyloid polype,"DAP, IAP",12,36024,,IAPP summary
+3480,IGF1R,insulin-like growth ,"IGFR, CD221, IGFIR, ",15,30997,signaling pathways,IGF1R summary
+3551,IKBKB,inhibitor of kappa l,"IKK2, IKKB, IMD15, N",8,7782,signaling pathways,IKBKB summary
+3553,IL1B,"interleukin 1, beta","IL-1, IL1F2, IL1-BET",2,481,signaling pathways,IL1B summary
+3557,IL1RN,interleukin 1 recept,"DIRA, IRAP, IL1F3, I",2,11163,,IL1RN summary
+116379,IL22RA2,interleukin 22 recep,"CRF2X, CRF2-10, CRF2",6,18657,signaling pathways,IL22RA2 summary
+3569,IL6,interleukin 6 (inter,"HGF, HSF, BSF2, IL-6",7,502,signaling pathways,IL6 summary
+3659,IRF1,interferon regulator,"MAR, IRF-1",5,1658,,IRF1 summary
+3665,IRF7,interferon regulator,"IRF7A, IRF7B, IRF7C,",11,128624,signaling pathways,IRF7 summary
+3667,IRS1,insulin receptor sub,HIRS-1,2,4049,signaling pathways,IRS1 summary
+8660,IRS2,insulin receptor sub,IRS-2,13,2778,signaling pathways,IRS2 summary
+3687,ITGAX,"integrin, alpha X (c","CD11C, SLEB6",16,55493,,ITGAX summary
+3934,LCN2,lipocalin 2,"24p3, MSFI, NGAL",9,4064,,LCN2 summary
+3953,LEPR,leptin receptor,"OBR, OB-R, CD295, LE",1,1731,signaling pathways,LEPR summary
+3954,LETM1,leucine zipper-EF-ha,,4,56320,,LETM1 summary
+3990,LIPC,"lipase, hepatic","HL, HTGL, LIPH, HDLC",15,199,,LIPC summary
+23175,LPIN1,lipin 1,PAP1,2,9266,,LPIN1 summary
+4023,LPL,lipoprotein lipase,"LIPD, HDLCQ11",8,200,signaling pathways,LPL summary
+5599,MAPK8,mitogen-activated pr,"JNK, JNK1, PRKM8, SA",10,56760,signaling pathways,MAPK8 summary
+4821,NKX2-2,NK2 homeobox 2,"NKX2B, NKX2.2",20,1879,,NKX2-2 summary
+4825,NKX6-1,NK6 homeobox 1,"NKX6A, NKX6.1",4,4495,,NKX6-1 summary
+10062,NR1H3,nuclear receptor sub,"LXRA, LXR-a, RLD-1",11,21165,signaling pathways,NR1H3 summary
+3164,NR4A1,nuclear receptor sub,"HMR, N10, TR3, NP10,",12,1612,signaling pathways,NR4A1 summary
+3651,PDX1,pancreatic and duode,"GSF, IPF1, IUF1, IDX",13,175,signaling pathways,PDX1 summary
+5295,PIK3R1,phosphoinositide-3-k,"p85, AGM7, GRB1, p85",5,7889,signaling pathways,PIK3R1 summary
+5444,PON1,paraoxonase 1,"ESA, PON, MVCD5",7,68058,,PON1 summary
+5465,PPARA,peroxisome prolifera,"PPAR, NR1C1, hPPAR, ",22,21047,signaling pathways,PPARA summary
+10891,PPARGC1A,peroxisome prolifera,"LEM6, PGC1, PGC1A, P",4,7485,signaling pathways,PPARGC1A summary
+5652,PRSS8,"protease, serine, 8","CAP1, PROSTASIN",16,20613,,PRSS8 summary
+5950,RBP4,retinol binding prot,RDCCAS,10,4908,,RBP4 summary
+6279,S100A8,S100 calcium binding,"P8, MIF, NIF, CAGA, ",1,2225,,S100A8 summary
+6280,S100A9,S100 calcium binding,"MIF, NIF, P14, CAGB,",1,2227,,S100A9 summary
+23411,SIRT1,sirtuin 1,SIR2L1,10,56556,signaling pathways,SIRT1 summary
+6502,SKP2,S-phase kinase-assoc,"p45, FBL1, FLB1, FBX",5,55942,signaling pathways,SKP2 summary
+6517,SLC2A4,solute carrier famil,GLUT4,17,74381,signaling pathways,SLC2A4 summary
+9021,SOCS3,suppressor of cytoki,"CIS3, SSI3, ATOD4, C",17,2941,signaling pathways,SOCS3 summary
+6720,SREBF1,sterol regulatory el,"SREBP1, bHLHd1, SREB",17,3079,signaling pathways,SREBF1 summary
+7040,TGFB1,transforming growth ,"CED, LAP, DPD1, TGFB",19,540,signaling pathways,TGFB1 summary
+117145,THEM4,thioesterase superfa,CTMP,1,14208,,THEM4 summary
+7097,TLR2,toll-like receptor 2,"TIL4, CD282",4,20695,signaling pathways,TLR2 summary
+7099,TLR4,toll-like receptor 4,"TOLL, CD284, TLR-4, ",9,41317,,TLR4 summary
+7124,TNF,tumor necrosis facto,"DIF, TNFA, TNFSF2, T",6,496,signaling pathways,TNF summary
+7351,UCP2,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516,,UCP2 summary
