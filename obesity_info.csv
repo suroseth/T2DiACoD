@@ -1,0 +1,73 @@
+Gene_ID,Gene_symbol,Gene_name,Gene_aliases,Chromosome,HomoloGene ID,additional_info,additional_info
+9370,ADIPOQ,"adiponectin, C1Q and","ACDC, ADPN, APM1, AP",3,3525,signaling pathway,ADIPOQ summary
+51094,ADIPOR1,adiponectin receptor,"CGI45, PAQR1, ACDCR1",1,69199,signaling pathway,ADIPOR1 summary
+79602,ADIPOR2,adiponectin receptor,"PAQR2, ACDCR2",12,56119,signaling pathway,ADIPOR2 summary
+155,ADRB3,adrenoceptor beta 3,BETA3AR,8,37250,,ADRB3 summary
+185,AGTR1,angiotensin II recep,"AT1, AG2S, AT1B, AT1",3,3556,,AGTR1 summary
+197,AHSG,alpha-2-HS-glycoprot,"AHS, A2HS, HSGA, FET",3,1225,,AHSG summary
+208,AKT2,v-akt murine thymoma,"PKBB, PRKBB, HIHGHH,",19,48773,,AKT2 summary
+217,ALDH2,aldehyde dehydrogena,"ALDM, ALDHI, ALDH-E2",12,55480,,ALDH2 summary
+309,ANXA6,annexin A6,"ANX6, CBP68",5,55558,,ANXA6 summary
+348,APOE,apolipoprotein E,"AD2, LPG, LDLCQ5",19,30951,,APOE summary
+364,AQP7,aquaporin 7,"AQP9, AQP7L, AQPap, ",9,48000,signaling pathway,AQP7 summary
+6347,CCL2,chemokine (C-C motif,"HC11, MCAF, MCP1, MC",17,2245,signaling pathway,CCL2 summary
+901,CCNG2,cyclin G2,,4,3208,,CCNG2 summary
+1234,CCR5,chemokine (C-C motif,"CKR5, CCR-5, CD195, ",3,37325,signaling pathway,CCR5 summary
+948,CD36,CD36 molecule (throm,"FAT, GP4, GP3B, GPIV",7,73871,signaling pathway,CD36 summary
+952,CD38,CD38 molecule,T10,4,1345,,CD38 summary
+1019,CDK4,cyclin-dependent kin,"CMM3, PSK-J3",12,55429,,CDK4 summary
+1071,CETP,cholesteryl ester tr,"BPIFF, HDLCQ10",16,47904,,CETP summary
+1401,CRP,"C-reactive protein, ",PTX1,1,128039,,CRP summary
+6376,CX3CL1,chemokine (C-X3-C mo,"NTN, NTT, CXC3, CXC3",16,2251,signaling pathway,CX3CL1 summary
+3579,CXCR2,chemokine (C-X-C mot,"CD182, IL8R2, IL8RA,",2,10439,signaling pathway,CXCR2 summary
+1528,CYB5A,cytochrome b5 type A,"CYB5, MCB5",18,41475,,CYB5A summary
+1535,CYBA,"cytochrome b-245, al",p22-PHOX,16,80,,CYBA summary
+9451,EIF2AK3,eukaryotic translati,"PEK, WRS, PERK",2,3557,,EIF2AK3 summary
+5167,ENPP1,ectonucleotide pyrop,"M6S1, NPP1, NPPS, PC",6,38151,,ENPP1 summary
+26291,FGF21,fibroblast growth fa,,19,10428,,FGF21 summary
+11167,FSTL1,follistatin-like 1,"FRP, FSL1, MIR198",3,5144,,FSTL1 summary
+51738,GHRL,ghrelin/obestatin pr,MTLRP,3,9487,,GHRL summary
+2844,GPR21,G protein-coupled re,,9,74546,,GPR21 summary
+2950,GSTP1,glutathione S-transf,"PI, DFN7, GST3, GSTP",11,660,,GSTP1 summary
+6928,HNF1B,HNF1 homeobox B,"FJHN, HNF2, LFB3, TC",17,396,,HNF1B summary
+3480,IGF1R,insulin-like growth ,"IGFR, CD221, IGFIR, ",15,30997,signaling pathway,IGF1R summary
+3484,IGFBP1,insulin-like growth ,"AFBP, IBP1, PP12, IG",7,498,,IGFBP1 summary
+3551,IKBKB,inhibitor of kappa l,"IKK2, IKKB, IMD15, N",8,7782,signaling pathway,IKBKB summary
+3586,IL10,interleukin 10,"CSIF, TGIF, GVHDS, I",1,478,signaling pathway,IL10 summary
+3553,IL1B,"interleukin 1, beta","IL-1, IL1F2, IL1-BET",2,481,signaling pathway,IL1B summary
+3569,IL6,interleukin 6 (inter,"HGF, HSF, BSF2, IL-6",7,502,signaling pathway,IL6 summary
+11213,IRAK3,interleukin-1 recept,"ASRT5, IRAKM",12,36215,,IRAK3 summary
+3665,IRF7,interferon regulator,"IRF7A, IRF7B, IRF7C,",11,128624,signaling pathway,IRF7 summary
+23028,KDM1A,lysine (K)-specific ,"AOF2, KDM1, LSD1, BH",1,32240,,KDM1A summary
+3949,LDLR,low density lipoprot,"FH, FHC, LDLCQ2",19,55469,,LDLR summary
+3954,LETM1,leucine zipper-EF-ha,,4,56320,,LETM1 summary
+5599,MAPK8,mitogen-activated pr,"JNK, JNK1, PRKM8, SA",10,56760,signaling pathway,MAPK8 summary
+4313,MMP2,matrix metallopeptid,"CLG4, MONA, CLG4A, T",16,3329,,MMP2 summary
+4615,MYD88,myeloid differentiat,MYD88D,3,1849,,MYD88 summary
+4760,NEUROD1,neuronal differentia,"BETA2, BHF-1, MODY6,",2,1871,,NEUROD1 summary
+4776,NFATC4,nuclear factor of ac,"NFAT3,NF-AT3,NF-ATC4",14,3349,,NFATC4 summary
+10062,NR1H3,nuclear receptor sub,"LXRA, LXR-a, RLD-1",11,21165,signaling pathway,NR1H3 summary
+3164,NR4A1,nuclear receptor sub,"HMR, N10, TR3, NP10,",12,1612,signaling pathway,NR4A1 summary
+5295,PIK3R1,phosphoinositide-3-k,"p85, AGM7, GRB1, p85",5,7889,signaling pathway,PIK3R1 summary
+5360,PLTP,phospholipid transfe,"BPIFE, HDLCQ9",20,4536,signaling pathway,PLTP summary
+5468,PPARG,peroxisome prolifera,"GLM1, CIMT1, NR1C3, ",3,7899,signaling pathway,PPARG summary
+10891,PPARGC1A,peroxisome prolifera,"LEM6, PGC1, PGC1A, P",4,7485,signaling pathway,PPARGC1A summary
+5577,PRKAR2B,"protein kinase, cAMP","PRKAR2, RII-BETA",7,37666,signaling pathway,PRKAR2B summary
+5950,RBP4,retinol binding prot,RDCCAS,10,4908,,RBP4 summary
+56729,RETN,resistin,"ADSF, RSTN, XCP1, FI",19,10703,,RETN summary
+9921,RNF10,ring finger protein ,RIE2,12,40990,,RNF10 summary
+6425,SFRP5,secreted frizzled-re,SARP3,10,2268,,SFRP5 summary
+23411,SIRT1,sirtuin 1,SIR2L1,10,56556,signaling pathway,SIRT1 summary
+6517,SLC2A4,solute carrier famil,GLUT4,17,74381,signaling pathway,SLC2A4 summary
+6517,SLC2A4,solute carrier famil,GLUT4,17,74381,signaling pathway,SLC2A4 summary
+9021,SOCS3,suppressor of cytoki,"CIS3, SSI3, ATOD4, C",17,2941,signaling pathway,SOCS3 summary
+6648,SOD2,superoxide dismutase,"IPOB, MNSOD, MVCD6",6,530,signaling pathway,SOD2 summary
+79689,STEAP4,STEAP family member ,"TIARP, STAMP2, TNFAI",7,36422,,STEAP4 summary
+23216,TBC1D1,"TBC1 (tre-2/USP6, BU","TBC, TBC1",4,56856,,TBC1D1 summary
+6934,TCF7L2,transcription factor,"TCF4, TCF-4",10,7564,signaling pathway,TCF7L2 summary
+7020,TFAP2A,transcription factor,"AP-2, BOFS, AP2TF, T",6,2421,,TFAP2A summary
+117145,THEM4,thioesterase superfa,CTMP,1,14208,,THEM4 summary
+7099,TLR4,toll-like receptor 4,"TOLL, CD284, TLR-4, ",9,41317,signaling pathway,TLR4 summary
+7189,TRAF6,TNF receptor-associa,"RNF85,MGC:3310",11,3395,,TRAF6 summary
+7351,UCP2,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516,,UCP2 summary
+7352,UCP3,uncoupling protein 3,SLC25A9,11,2517,,UCP3 summary

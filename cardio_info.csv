@@ -1,0 +1,206 @@
+Gene_ID,Gene_symbol,Gene_name,Gene_aliases,Chromosome,HomoloGene ID
+19,ABCA1,ATP binding cassette subfamily A member 1,"TGD, ABC1, CERP, ABC-1, HDLDT1",9,21130
+9619,ABCG1,ATP binding cassette,"ABC8, WHITE1",21,21022
+28,ABO,"ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase)","GTB, NAGAT, A3GALNT, A3GALT1",9,69306
+1636,ACE,angiotensin I converting enzyme,"DCP, ICH, ACE1, DCP1, CD143, MVCD3",17,37351
+59272,ACE2,angiotensin I conver,ACEH,X,41448
+130399,ACVR1C,activin A receptor type 1C,"ALK7, ACVRLK7",2,26724
+111,ADCY5,adenylate cyclase 5,"AC5, FDFM",3,11213
+9370,ADIPOQ,"adiponectin, C1Q and","ACDC, ADPN, APM1, APM-1",3,3525
+51094,ADIPOR1,adiponectin receptor,"CGI45, PAQR1, ACDCR1, C",1,69199
+79602,ADIPOR2,adiponectin receptor 2,PAQR2 ACDCR2,12,56119
+177,AGER,advanced glycosylation end product-specific receptor,RAGE,6,883
+64902,AGXT2,alanine--glyoxylate aminotransferase 2,AGT2 DAIBAT,5,12887
+10598,AHSA1,"AHA1, activator of heat shock 90kDa protein ATPase homolog 1 (yeast)","p38, AHA1, hAha1, C14orf3",14,8106
+197,AHSG,alpha-2-HS-glycoprotein,"AHS, A2HS, HSGA, FETUA",3,1225
+207,AKT1,v-akt murine thymoma viral oncogene homolog 1,"AKT,  PKB,  RAC,  CWS6,  PRKBA,  PKB-ALPHA,  RAC-ALPHA",14,3785
+217,ALDH2,aldehyde dehydrogena,"ALDM, ALDHI, ALDH-E2",12,55480
+239,ALOX12,"arachidonate 12-lipoxygenase, 12S type","LOG12, 12-LOX, 12S-LOX",17,560
+80216,ALPK1,alpha kinase 1,"LAK, 8430410J10Rik",4,11849
+308,ANXA5,annexin A5,"PP4,ANX5,ENX2,RPRGL3,HEL-S-7",4,20312
+335,APOA1,apolipoprotein A-I,apo(a),11,47900
+116519,APOA5,apolipoprotein A-V,"RAP3, APOAV",11,14197
+338,APOB,apolipoprotein B,"FLDB,  LDLCQ4,  apoB-48,  apoB-100",2,328
+345,APOC3,apolipoprotein C-III,"HALP2, APOCIII",11,81615
+348,APOE,apolipoprotein E,"AD2, LPG, APO-E, LDLCQ5",19,30951
+350,APOH,apolipoprotein H (be,"BG, B2G1, B2GP1",17,26
+8542,APOL1,apolipoprotein L1,"APOL, APO-L, FSGS4, APOL-I",22,NA
+472,ATM,ATM serine/threonine kinase,"AT1, ATA, ATC, ATD, ATE, ATDC, TEL1, TELO1",11,30952
+83875,BCO2,beta-carotene oxygenase 2,BCDO2 B-DIOX-II,11,12912
+664,BNIP3,BCL2/adenovirus E1B 19kDa interacting protein 3,NIP3,10,2990
+919,CD247,T-cell surface glycoprotein CD3 zeta chain,"T3Z, CD3H, CD3Q, CD3Z, TCRZ, IMD25, CD3-ZETA",1,12818
+948,CD36,CD36 molecule (throm,"FAT, GP4, GP3B, GPIV, CH",7,73871
+920,CD4,CD4 molecule,CD4mut,12,513
+958,CD40,"CD40 molecule, TNF r","p50, Bp50, CDW40, TNFRS",20,954
+959,CD40LG,CD40 ligand,"IGM, IMD3, TRAP, gp39, CD154, CD40L, HIGM1, T-BAM, TNFSF5, hCD40L",X,56
+968,CD68,CD68 molecule,"GP110,  LAMP4,  SCARD1",17,955
+928,CD9,CD9 molecule,"MIC3, MRP-1, BTCC-1, DRAP-27, TSPAN29, TSPAN-29",12,20420
+8872,CDC123,cell division cycle ,"D123, C10orf7",10,4394
+54901,CDKAL1,CDK5 regulatory subu,NA,6,9830
+1029,CDKN2A,cyclin-dependent kin,"ARF, MLM, P14, P16, P19, ",9,55430
+1071,CETP,cholesteryl ester tr,"BPIFF, HDLCQ10",16,47904
+522,CF6,"ATP synthase, H+ transporting, mitochondrial Fo complex subunit F6","F6, CF6, ATP5, ATPM, ATP5A",21,1272
+1116,CHI3L1,Chitinase-3-like protein 1,"GP39, ASRT7, GP-39, YKL40, CGP-39, YKL-40, YYL-40, HC-gp39, HCGP-3P, hCGP-39",1,55569
+9575,CLOCK,clock circadian regulator,"KAT13D,bHLHe8",4,3603
+84735,CNDP1,carnosine dipeptidase 1 (metallopeptidase M20 family),"CN1, CPGL2, HsT2308",18,57178
+1312,COMT,catechol-O-methyltransferase,HEL-S-98n,22,30982
+1398,CRK,Adapter molecule crk,"p38, CRKII",17,81850
+1401,CRP,C-reactive protein,PTX1,1,128039
+1471,CST3,cystatin C,"ARMD11, HEL-S-2",20,78
+1490,CTGF,connective tissue growth factor,"CCN2,  NOV2,  HCS24,  IGFBP8",6,1431
+1520,CTSS,cathepsin S,NA,1,20867
+6376,CX3CL1,chemokine (C-X3-C motif) ligand 1,"NTN, NTT, CXC3, CXC3C, SCYD1, ABCD-3, C3Xkine, fra",16,2251
+1536,CYBB,"cytochrome b-245, beta polypeptide","CGD,  NOX2,  IMD34,  AMCBX2,  GP91-1,  GP91PHOX,  p91-PHOX,  GP91-PHOX",X,68054
+1543,CYP1A1,cytochrome P450 family 1 subfamily A member 1,"AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX",15,68062
+1562,CYP2C18,cytochrome P450 family 2 subfamily C member 18,CPCI CYP2C CYP2C17 P450IIC17 P450-6B/29C,10,1562
+1573,CYP2J2,"cytochrome P450, family 2, subfamily J, polypeptide 2",CPJ2,1,68091
+4051,CYP4F3,cytochrome P450 family 4 subfamily F member 3,CPF3 CYP4F LTB4H,19,4051
+1581,CYP7A1,cytochrome P450 family 7 subfamily A member 1,"CP7A, CYP7, CYPVII",8,30987
+1649,DDIT3,DNA damage inducible transcript 3,"CHOP, CEBPZ, CHOP10, CHOP-10, GADD153",12,3012
+22943,DKK1,dickkopf WNT signali,"SK, DKK-1",10,7689
+1803,DPP4,dipeptidyl peptidase 4,"CD26, ADABP, ADCP2, DPPIV, TP103",2,3279
+1879,EBF1,early B-cell factor 1,"EBF, COE1, OLF1, O/E-1",5,7297
+1956,EGFR,epidermal growth factor receptor,"ERBB, HER1, mENA, ERBB1, PIG61, NISBD2",7,74545
+2022,ENG,endoglin,"END, HHT1, ORW1",9,92
+2064,ERBB2,erb-b2 receptor tyrosine kinase 2,"NEU, NGL, HER2, TKR1, CD340, HER-2, MLN, 19, HER-2/neu",17,3273
+2168,FABP1,fatty acid binding protein 1,"FABPL, L-FABP",2,1106
+2167,FABP4,fatty acid binding p,"aP2, ALBP, AFABP, A-FAB",8,36067
+2171,FABP5,fatty acid binding p,"EFABP, KFABP, E-FABP, P",8,108238
+3992,FADS1,fatty acid desaturase 1,"D5D,TU12,FADS6,FADSD5,LLCDL1",11,22753
+9415,FADS2,fatty acid desaturase 2,"D6D,DES6,TU13,FADSD6,LLCDL2,SLL0262",11,3149
+2867,FFAR2,Free Fatty Acid Receptor 2,"FFA2R, GPR43",19,133911
+9965,FGF19,fibroblast growth factor 19,NA,11,3754
+26291,FGF21,fibroblast growth fa,NA,19,10428
+8074,FGF23,fibroblast growth factor 23,"ADHR, FGFN, HYPF, HPDR2, PHPTC",12,10771
+60681,FKBP10,FK506 binding protein 10,"OI6, OI11, BRKS1, FKBP65, PPIASE, hFKBP65",17,7718
+2288,FKBP4,FK506 binding protein 4,"HBI, p52, Hsp56, FKBP51, FKBP52, FKBP59, PPIase",12,36085
+23770,FKBP8,FK506 binding protein 8,"FKBP38, FKBPr38",19,7720
+79068,FTO,fat mass and obesity,"GDFD, ALKBH9",16,8053
+7855,FZD5,frizzled class receptor 5,HFZ5 C2orf31,2,2590
+2539,G6PD,glucose-6-phosphate ,G6PD1,X,37906
+2646,GCKR,glucokinase (hexokinase 4) regulator,"GKRP, FGQTL5",2,1139
+9518,GDF15,growth differentiation factor 15,PDF MIC1 PLAB MIC-1 NAG-1 PTGFB GDF-15,19,3576
+2678,GGT1,gamma-glutamyltransferase 1,"GGT, GTG, CD224, GGT, 1, D22S672, D22S732",22,68450
+51738,GHRL,ghrelin/obestatin prepropeptide,MTLRP,3,9487
+2695,GIP,gastric inhibitory polypeptide,NA,17,3043
+2710,GK,glycerol kinase,"GK1, GKD",X,21848
+2740,GLP1R,glucagon like peptide 1 receptor,"GLP-1,GLP-1R,GLP-1-R",6,1558
+2752,GLUL,glutamate-ammonia ligase,"GS, GLNS, PIG43, PIG59",1,37567
+2876,GPX1,glutathione peroxida,"GPXD, GSHPX1",3,20155
+156,GRK2,G protein-coupled receptor kinase 2,BARK1 ADRBK1 BETA-ARK1,11,
+2952,GSTT1,glutathione S-transf,NA,22,NA
+2997,GYS1,glycogen synthase 1 ,"GSY, GYS",19,113557
+3087,HHEX,hematopoietically ex,"HEX, PRH, HMPH, PRHX, HO",10,31110
+3091,HIF1A,hypoxia inducible factor 1 alpha subunit,"HIF1,  MOP1,  PASD8,  HIF-1A,  bHLHe78,  HIF-1alpha,  HIF1-ALPHA,  HIF-1-alpha",14,1171
+3146,HMGB1,high mobility group box 1 ,NA,13,110676
+6928,HNF1B,HNF1 homeobox B,"FJHN,HNF2,LFB3,TCF2,HPC11,LF-B3,MODY5,TCF-2,VHNF1,HNF-1B,HNF1beta,HNF-1-beta",17,396
+3172,HNF4A,hepatocyte nuclear factor 4 alpha,TCF HNF4 MODY FRTS4 MODY1 NR2A1 TCF14 HNF4a7 HNF4a8 HNF4a9 NR2A21 HNF4alpha,20,395
+3240,HP,haptoglobin,BP HPA1S HP2ALPHA2,16,121756
+3479,IGF1,insulin like growth factor 1,"MGF, IGFI, IGF-I",12,515
+3586,IL10,interleukin 10,"CSIF,  TGIF,  GVHDS,  IL-10,  IL10A",1,478
+3606,IL18,interleukin 18,"IGIF, IL-18, IL-1g, IL1",11,1200
+3553,IL1B,interleukin 1 beta,"IL-1, IL1F2, IL1-BETA",2,481
+3569,IL6,interleukin 6,"HGF,  HSF,  BSF2,  IL-6,  IFNB2",7,502
+3630,INS,insulin,"IDDM, ILPR, IRDN, IDDM1, IDDM2, MODY10",11,173
+3670,ISL1, ISL LIM homeobox 1 ,"Isl-1, ISLET1",5,1661
+221895,JAZF1,JAZF zinc finger 1,"TIP27, ZNF802",7,18291
+688,KLF5,Kruppel like factor 5,"CKLF, IKLF, BTEB2",13,37520
+3931,LCAT,lecithin-cholesterol acyltransferase,,16,68042
+3949,LDLR,low density lipoprotein receptor,"FH, FHC, LDLCQ2",19,55469
+3952,LEP,leptin,"OB,  OBS,  LEPD",7,193
+4018,LPA,"lipoprotein, Lp(a)","LP, AK38, APOA",6,87856
+4023,LPL,lipoprotein lipase,"LIPD, HDLCQ11",8,200
+9935,MAFB,v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog B,"KRML, MCTO",20,31315
+4217,MAP3K5,mitogen-activated protein kinase kinase kinase 5,"ASK1, MEKK5, MAPKKK5",6,38114
+4153,MBL2,mannose binding lectin 2,"MBL, MBP, MBP1, MBPD, MB",10,110436
+50639,MBL3P,"mannose-binding lectin family member 3, pseudogene","MBL, COLEC2",10,NA
+4160,MC4R,melanocortin 4 receptor,NA,18,4320
+4256,MGP, Matrix Gla Protein,"NTI, GIG36, MGLAP",12,91425
+4282,MIF,macrophage migration inhibitory factor (glycosylation-inhibiting factor),"GIF, GLIF, MMIF",22,55655
+4313,MMP2,matrix metallopeptidase 2,"CLG4, MONA, CLG4A, MMP-2, TBE-1, MMP-II",16,3329
+4318,MMP9,matrix metallopeptidase 9,"GELB, CLG4B, MMP-9, MANDP2",20,3659
+4353,MPO,myeloperoxidase,NA,17,55450
+4436,MSH2,mutS homolog 2,"FCC1, COCA1, HNPCC, LCFS2, HNPCC1",2,210
+4489,MT1A,metallothionein 1A,"MT1, MTC, MT1S",16,NA
+25902,MTHFD1L,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like,"FTHFSDC1, MTC1THFS, dJ292B18.2",6,56706
+4669,NAGLU,"N-acetylglucosaminidase, alpha","NAG, CMT2V, MPS3B, UFHSD, MPS-IIIB",17,222
+10135,NAMPT,nicotinamide phospho,"VF, PBEF, PBEF1, VISFAT",7,4201
+114548,NLRP3,"NLR family, pyrin domain containing 3","AII, AVP, FCU, MWS, FCAS, CIAS1, FCAS1, NALP3, C1orf7, CLR1.1, PYPAF1, AGTAVPRL",1,3600
+4846,NOS3,nitric oxide synthase 3,"eNOS, ECNOS",7,504
+50507,NOX4,NADPH oxidase 4,"KOX, KOX-1, RENOX",11,41065
+4878,NPPA,natriuretic peptide A,"ANF, ANP, CDD, CDP, PND, ATFB6, ATRST2, CDD-ANF",1,4498
+4852,NPY,neuropeptide Y,PYY4,7,697
+4887,NPY2R,neuropeptide Y recep,NPY2-R,4,701
+4889,NPY5R,neuropeptide Y recep,"NPYR5, NPY5-R, NPYY5-R",4,21241
+1728,NQO1,NAD(P)H dehydrogenas,"DTD, QR1, DHQU, DIA4, NM",16,695
+4306,NR3C2,nuclear receptor subfamily 3 group C member 2,"MR, MCR, MLR, NR3C2VIT",4,121495
+8013,NR4A3,nuclear receptor subfamily 4 group A member 3,CHN TEC CSMF NOR1 MINOR,9,5074
+4922,NTS,neurotensin,"NN, NT, NT/N, NTS1, NMN-125",12,4506
+4925,NUCB2,nucleobindin 2,"NEFA, HEL-S-109",11,3676
+5020,OXT,oxytocin/neurophysin I prepropeptide,"OT, OT-NPI, OXT-NPI",20,55494
+55486,PARL,"presenilin associated, rhomboid-like","PSARL,  PSARL1,  RHBDS1,  PRO2207,  PSENIP2",3,10239
+142,PARP1,poly(ADP-ribose) polymerase 1,"PARP, PPOL, ADPRT, ARTD1, ADPRT1, PARP-1, ADPRT, 1, pADPRT-1",1,1222
+255738,PCSK9,proprotein convertase subtilisin/kexin type 9,"FH3, PC9, NARC1, LDLCQ1, NARC-1, HCHOLA3",1,17790
+375033,PEAR1,platelet endothelial aggregation receptor 1,"JEDI, MEGF12",1,12492
+5228,PGF,placental growth factor,"PGFL,  PLGF,  PlGF-2,  D12S1900,  SHGC-10760",14,1978
+221692,PHACTR1,phosphatase and actin regulator 1,"RPEL, RPEL1, dJ257A7.2",6,33597
+5346,PLIN1,perilipin 1,"PERI, PLIN, FPLD4",15,2001
+123,PLIN2,perilipin 2,"ADFP, ADRP",9,872
+5350,PLN,phospholamban,PLB,6,136758
+80339,PNPLA3,patatin like phospholipase domain containing 3,"ADPN,C22orf20,iPLA(2)epsilon",22,11883
+5443,POMC,proopiomelanocortin,"LPH, MSH, NPP, POC, ACTH, CLIP",2,723
+5444,PON1,paraoxonase 1,"ESA, PON, MVCD5",7,68058
+5446,PON3,paraoxonase 3,NA,7,37371
+5465,PPARA,peroxisome proliferator activated receptor alpha,"PPAR, NR1C1, hPPAR, PPARalpha",22,21047
+10891,PPARGC1A,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-",4,7485
+5478,PPIA,peptidylprolyl isomerase A,"CYPA,CYPH,HEL-S-69p",7,134504
+5547,PRCP,prolylcarboxypeptidase,"PCP, HUMPCP",11,55867
+63976,PRDM16,PR/SET domain 16,MEL1 KMT8F LVNC8 PFM13 CMD1LL,1,11139
+5052,PRDX1,peroxiredoxin 1,"PAG, PAGA, PAGB, PRX1, PRXI, MSP23, NKEFA, TDPX2, NKEF-A",1,99789
+7001,PRDX2,peroxiredoxin 2,"PRP, TSA, PRX2, PTX1, TPX1, NKEFB, PRXII, TDPX1, NKEF-B, HEL-S-2a",19,21182
+10549,PRDX4,peroxiredoxin 4,"PRX-4, AOE372, AOE37-2, HEL-S-97n",X,4672
+9588,PRDX6,peroxiredoxin 6,"PRX, p29, AOP2, 1-Cys, NSGPx, aiPLA2, HEL-S-128m",1,3606
+5687,PSMA6,proteasome subunit a,"IOTA, p27K, PROS27",14,2085
+5743,PTGS2,prostaglandin-endoperoxide synthase 2,"COX2, COX-2, PHS-2, PGG/HS, PGHS-2, hCox-2, GRIPGHS",1,31000
+5741,PTH,parathyroid hormone,PTH1,11,266
+5770,PTPN1,protein tyrosine pho,PTP1B,20,2119
+5919,RARRES2,retinoic acid receptor responder 2,"TIG2,HP10433",7,2167
+5950,RBP4,retinol binding prot,"RDCCAS, MCOPCB10",10,4908
+5972,REN,renin,HNFJ2,1,20151
+56729,RETN,resistin ,NA,19,10703
+55328,RNLS,"renalase, FAD-dependent amine oxidase","C10orf59, RENALASE",10,41254
+6283,S100A12,S100 calcium binding,"p6, CAGC, CGRP, MRP6, CA",1,48361
+6287,SAA@,serum amyloid A1 cluster,"SAA, SAA4",11,NA
+80854,SETD7,SET domain containing lysine methyltransferase 7,"KMT7, SET7, SET9, SET7/9",4,12741
+6425,SFRP5,secreted frizzled related protein 5,SARP3,10,2268
+6524,SGLT2, solute carrier family 5 member 2, SGLT2,16,2289
+6462,SHBG,sex hormone-binding globulin,"ABP, SBP, TEBG",17,813
+23411,SIRT1,sirtuin 1,"SIR2, SIR2L1, SIR2alpha",10,56556
+6513,SLC2A1,solute carrier family 2 member 1,"CSE, PED, DYT9, GLUT, DYT17, DYT18, EIG12, GLUT1, HTLVR, GLUT-1, SDCHCN, GLUT1DS",1,68520
+6517,SLC2A4,solute carrier family 2 member 4,GLUT4,17,74381
+6524,SLC5A2,solute carrier family 5 member 2,SGLT2,16,2289
+6649,SOD3,superoxide dismutase 3,EC-SOD,4,2334
+50964,SOST,sclerostin,"CDD, VBCH, SOST1",17,11542
+6696,SPP1,secreted phosphoprotein 1,"OPN,  BNSP,  BSPI,  ETA-1",4,20156
+6761,ST2,suppression of tumorigenicity 2,,11,
+6772,STAT1,"sigl transducer and activator of transcription 1, 91kDa","CANDF7,  IMD31A,  IMD31B,  IMD31C,  ISGF-3,  STAT91",2,21428
+6778,STAT6,signal transducer and activator of transcription 6,STAT6B STAT6C D12S1644 IL-4-STAT,12,2373
+387082,SUMO4,small ubiquitin-like modifier 4,"IDDM5,  SMT3H4,  SUMO-4,  dJ281H8.4",6,88399
+6869,TACR1,tachykinin receptor ,"SPR, NK1R, NKIR, TAC1R",2,20288
+6934,TCF7L2,transcription factor,"TCF4, TCF-4",10,7564
+7040,TGFB1,transforming growth factor beta 1,"CED, LAP, DPD1, TGFB, TGFbeta",19,540
+7097,TLR2,toll-like receptor 2,"TIL4, CD282",4,20695
+7099,TLR4,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+53345,TM6SF2,transmembrane 6 superfamily member 2,,19,77694
+4982,TNFRSF11B,tumor necrosis factor receptor superfamily member 11b,"OPG, TR1, OCIF, PDB5",8,1912
+7168,TPM1,tropomyosin 1 (alpha),CMH3 TMSA CMD1Y LVNC9 C15orf13 HEL-S-265 HTM-alpha,15,121635
+57761,TRIB3,tribbles pseudokinase 3,"NIPK, SINK, TRB3, SKIP3, C20orf97",20,10902
+493829,TRIM72,tripartite motif containing 72,MG53,16,66924
+7295,TXN,thioredoxin,"TRX, TRDX, TRX1",9,128202
+7412,VCAM1,vascular cell adhesion molecule 1,"CD106,  INCAM-100",1,838
+7421,VDR,"vitamin D (1,25- dihydroxyvitamin D3) receptor","NR1I1,  PPP1R163",12,37297
+7422,VEGFA, Vascular Endothelial Growth Factor A,"VPF, VEGF, MVCD1",6,2534
+7450,VWF,von Willebrand factor,"VWD, F8VWF",12,466
+7515,XRCC1,X-ray repair complementing defective repair in Chinese hamster cells 1,RCC,19,31368
+6502,SKP2,S-phase kinase associated protein 2,"p45,  FBL1, FLB1, FBXL1",5,55942
+213,ALB,albumin,"FDAH,  ALBA,  PRO0883,  PRO0903,  PRO1341",4,405

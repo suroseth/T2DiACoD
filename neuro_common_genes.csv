@@ -1,0 +1,251 @@
+Risk_factor/complication,Gene_symbol,Gene_ID,Gene_name,Gene_aliases,Chromosome,HomoloGene ID
+Diet,ADIPOQ,9370,"adiponectin, C1Q and","ACDC,  ADPN,  APM1,  APM-1,  GBP28,  ACRP30,  ADIP",3,3525
+Diet,ALB,213,albumin,"FDAH,  ALBA,  PRO0883,  PRO0903,  PRO1341",4,405
+Diet,BDNF,627,brain derived neurotrophic factor,ANON2 BULN2,11,7245
+Diet,CRK,1398,v-crk avian sarcoma ,p38 CRKII,17,81850
+Diet,CRP,1401,"C-reactive protein, ",PTX1,1,128039
+Diet,CXCL10,3627,chemokine (C-X-C mot,C7 IFI10 INP10 IP-10 crg-2 mob-1 SCYB10 gIP-10,4,1203
+Diet,CXCR2,3579,chemokine (C-X-C mot,CD182 IL8R2 IL8RA IL8RB CMKAR2 CDw128b,2,10439
+Diet,DDIT3,1649,DNA damage inducible,CHOP CEBPZ CHOP10 CHOP-10 GADD153,12,3012
+Diet,ENPP2,5168,ectonucleotide pyrop,ATX NPP2 ATX-X PDNP2 LysoPLD AUTOTAXIN PD-IALPHA,8,4526
+Diet,EPO,2056,erythropoietin,EP MVCD2,7,624
+Diet,GCK,2645,glucokinase,"GK,  GLK,  HK4,  HHF3,  HKIV,  HXKP,  LGLK,  MODY2",7,55440
+Diet,GGT1,2678,gamma-glutamyltransf,GGT GTG CD224 GGT 1 D22S672 D22S732,22,68450
+Diet,GIP,2695,gastric inhibitory p,,17,3043
+Diet,GIPR,2696,gastric inhibitory p,PGQTL2,19,20081
+Diet,GLP1R,2740,glucagon like peptid,,6,1558
+Diet,HMGB1,3146,high mobility group ,HMG1 HMG3 HMG-1 SBP-1,13,110676
+Diet,HMOX1,3162,heme oxygenase 1,HO-1 HSP32 HMOX1D bK286B10,22,31075
+Diet,HNF4A,3172,hepatocyte nuclear f,TCF HNF4 MODY FRTS4 MODY1 NR2A1 TCF14 HNF4a7 HNF4a,20,395
+Diet,IGF1,3479,insulin like growth ,MGF IGFI IGF-I,12,515
+Diet,IGF2,3481,insulin like growth ,GRDF IGF-II PP9974 C11orf43,11,510
+Diet,IL10,3586,interleukin 10,CSIF TGIF GVHDS IL-10 IL10A,1,478
+Diet,IL6,3569,interleukin 6,CDF HGF HSF BSF2 IL-6 BSF-2 IFNB2 IFN-beta-2,7,502
+Diet,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Diet,KCNJ11,3767,"potassium channel, i",BIR HHF2 PHHI IKATP TNDM3 KIR6.2 MODY13,11,441
+Diet,LEP,3952,leptin,"OB,  OBS,  LEPD",7,193
+Diet,LPL,4023,lipoprotein lipase,LIPD HDLCQ11,8,200
+Diet,MBL2,4153,mannose-binding lect,MBL MBP MBP1 MBPD MBL2D MBP-C COLEC1 HSMBPC,10,110436
+Diet,MIF,4282,macrophage migration,GIF GLIF MMIF,22,55655
+Diet,MME,4311,membrane metallo-end,NEP SFE CD10 CALLA,3,5275
+Diet,MTHFR,4524,methylenetetrahydrof,,1,4349
+Diet,NFE2L2,4780,"nuclear factor, eryt",NRF2 HEBP1,2,2412
+Diet,NGF,4803,nerve growth factor ,NGFB HSAN5 Beta-NGF,1,1876
+Diet,NOS1,4842,nitric oxide synthas,NOS bNOS nNOS IHPS1 N-NOS NC-NOS,12,37327
+Diet,NOS3,4846,nitric oxide synthas,eNOS ECNOS,7,504
+Diet,PECAM1,5175,platelet/endothelial,CD31 PECA1 GPIIA&apos; PECAM-1 endoCAM CD31/EndoCA,17,47925
+Diet,PON1,5444,paraoxonase 1,ESA PON MVCD5,7,68058
+Diet,PTGS2,5743,prostaglandin-endope,COX2 COX-2 PHS-2 PGG/HS PGHS-2 hCox-2 GRIPGHS,1,31000
+Diet,SERPINF1,5176,serpin peptidase inh,OI6 OI12 PEDF EPC-1 PIG35,17,1965
+Diet,SLC2A3,6515,solute carrier famil,GLUT3,12,74302
+Diet,SLC2A4,6517,solute carrier famil,GLUT4,17,74381
+Diet,SOD2,6648,superoxide dismutase,IPOB MNSOD MVCD6,6,530
+Diet,SREBF1,6720,sterol regulatory el,SREBP1 bHLHd1 SREBP-1c,17,3079
+Diet,TLR4,7099,toll-like receptor 4,TOLL CD284 TLR-4 ARMD10,9,41317
+Diet,TNF,7124,tumor necrosis facto,DIF TNFA TNFSF2 TNF-alpha,6,496
+Diet,TNFRSF11B,4982,tumor necrosis facto,OPG TR1 OCIF PDB5,8,1912
+Diet,TNFRSF1B,7133,tumor necrosis facto,p75 TBPII TNFBR TNFR2 CD120b TNFR1B TNFR80 TNF-R75,1,829
+Diet,TRPV1,7442,transient receptor p,VR1,17,12920
+Diet,UCP2,7351,uncoupling protein 2,UCPH BMIQ4 SLC25A8,11,2516
+Diet,VEGFA,7422,vascular endothelial,VPF VEGF MVCD1,6,2534
+Diet,VIP,7432,vasoactive intestina,PHM27,6,2539
+Diet,GFAP,2670,glial fibrillary aci,ALXDRD,17,1554
+Inflammation,ACE,1636,angiotensin I conver,DCP ICH ACE1 DCP1 CD143 MVCD3,17,37351
+Inflammation,ADIPOQ,9370,"adiponectin, C1Q and",ACDC ADPN APM1 APM-1 GBP28 ACRP30 ADIPQTL1,3,3525
+Inflammation,ADM,133,adrenomedullin,AM PAMP,11,873
+Inflammation,AGER,177,advanced glycosylati,RAGE,6,883
+Inflammation,AKR1B1,231,aldo-keto reductase ,AR ADR ALR2 ALDR1,7,133743
+Inflammation,ALB,213,albumin,FDAH ANALBA PRO0883 PRO0903 PRO1341,4,405
+Inflammation,ALDH2,217,aldehyde dehydrogena,ALDM ALDHI ALDH-E2,12,55480
+Inflammation,APLN,8862,apelin,"APEL,XNPEP2",X,8498
+Inflammation,APOE,348,apolipoprotein E,"AD2, LPG, LDLCQ5",19,30951
+Inflammation,ATF3,467,activating transcrip,,1,1265
+Inflammation,AVP,551,arginine vasopressin,VP ADH ARVP AVRP AVP-NPII,20,417
+Inflammation,BDNF,627,brain-derived neurot,"ANON2,  BULN2",11,7245
+Inflammation,CCL2,6347,chemokine (C-C motif,HC11 MCAF MCP1 MCP-1 SCYA2 GDCF-2 SMC-CF HSMCR30,17,2245
+Inflammation,CNR1,1268,cannabinoid receptor,CB1 CNR CB-R CB1A CB1R CANN6 CB1K5,6,7273
+Inflammation,CNR2,1269,cannabinoid receptor,CB2 CX5 CB-2,1,1389
+Inflammation,CRK,1398,v-crk avian sarcoma ,p38 CRKII,17,81850
+Inflammation,CRP,1401,"C-reactive protein, ",PTX1,1,128039
+Inflammation,CXCL10,3627,chemokine (C-X-C mot,C7 IFI10 INP10 IP-10 crg-2 mob-1 SCYB10 gIP-10,4,1203
+Inflammation,CXCL12,6387,chemokine (C-X-C mot,IRH PBSF SDF1 TLSF TPAR1 SCYB12,10,128606
+Inflammation,CXCR4,7852,chemokine (C-X-C mot,FB22 HM89 LAP3 LCR1 NPYR WHIM CD184 LAP-3 LESTR NP,2,20739
+Inflammation,DDIT3,1649,DNA damage inducible,CHOP CEBPZ CHOP10 CHOP-10 GADD153,12,3012
+Inflammation,ENG,2022,endoglin,"END,  HHT1,  ORW1",9,92
+Inflammation,EPO,2056,erythropoietin,EP MVCD2,7,624
+Inflammation,G6PD,2539,glucose-6-phosphate ,G6PD1,X,37906
+Inflammation,GCK,2645,glucokinase,"GK,  GLK,  HK4,  HHF3,  HKIV,  HXKP,  LGLK,  MODY2",7,55440
+Inflammation,GGT1,2678,gamma-glutamyltransf,GGT GTG CD224 GGT 1 D22S672 D22S732,22,68450
+Inflammation,GIP,2695,gastric inhibitory p,,17,3043
+Inflammation,GLP1R,2740,glucagon like peptid,"GLP-1, GLP-1R, GLP-1-R",11,1558
+Inflammation,HGF,3082,hepatocyte growth fa,"SF,  HGFB,  HPTA,  F-TCF,  DFNB39",7,503
+Inflammation,HMGB1,3146,high mobility group ,HMG1 HMG3 HMG-1 SBP-1,13,110676
+Inflammation,HMOX1,3162,heme oxygenase 1,HO-1 HSP32 HMOX1D bK286B10,22,31075
+Inflammation,IFNG,3458,"interferon, gamma",IFG IFI,12,55526
+Inflammation,IGF1,3479,insulin like growth ,MGF IGFI IGF-I,12,515
+Inflammation,IGF2,3481,insulin like growth ,GRDF IGF-II PP9974 C11orf43,11,510
+Inflammation,IL10,3586,interleukin 10,CSIF TGIF GVHDS IL-10 IL10A,1,478
+Inflammation,IL4,3565,interleukin 4,BSF1 IL-4 BCGF1 BSF-1 BCGF-1,5,491
+Inflammation,IL6,3569,interleukin 6,CDF HGF HSF BSF2 IL-6 BSF-2 IFNB2 IFN-beta-2,7,502
+Inflammation,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Inflammation,LEP,3952,leptin,"OB,  OBS,  LEPD",7,193
+Inflammation,LPL,4023,lipoprotein lipase,LIPD HDLCQ11,8,200
+Inflammation,MBL2,4153,mannose-binding lect,MBL MBP MBP1 MBPD MBL2D MBP-C COLEC1 HSMBPC,10,110436
+Inflammation,MBP,4155,myelin basic protein,,18,1788
+Inflammation,MIF,4282,macrophage migration,GIF GLIF MMIF,22,55655
+Inflammation,MME,4311,membrane metallo-end,NEP SFE CD10 CALLA,3,5275
+Inflammation,MTHFR,4524,methylenetetrahydrof,,1,4349
+Inflammation,NFE2L2,4780,"nuclear factor, eryt",NRF2 HEBP1,2,2412
+Inflammation,NGF,4803,nerve growth factor ,NGFB HSAN5 Beta-NGF,1,1876
+Inflammation,NOS1,4842,nitric oxide synthas,NOS bNOS nNOS IHPS1 N-NOS NC-NOS,12,37327
+Inflammation,NOS3,4846,nitric oxide synthas,eNOS ECNOS,7,504
+Inflammation,P2RX3,5024,purinergic receptor ,P2X3,11,1922
+Inflammation,PECAM1,5175,platelet/endothelial,CD31 PECA1 GPIIA&apos; PECAM-1 endoCAM CD31/EndoCA,17,47925
+Inflammation,PON1,5444,paraoxonase 1,ESA PON MVCD5,7,68058
+Inflammation,PRKG1,5592,"protein kinase, cGMP",PKG cGK AAT8 cGK1 cGKI cGK 1 PRKG1B PRKGR1B cGKI-B,10,55964
+Inflammation,PSMD9,5715,proteasome 26S subun,p27 Rpn4,12,2106
+Inflammation,PTGS2,5743,prostaglandin-endope,COX2 COX-2 PHS-2 PGG/HS PGHS-2 hCox-2 GRIPGHS,1,31000
+Inflammation,SERPINF1,5176,serpin peptidase inh,OI6 OI12 PEDF EPC-1 PIG35,17,1965
+Inflammation,SLC2A4,6517,solute carrier famil,GLUT4,17,74381
+Inflammation,SOD2,6648,superoxide dismutase,IPOB MNSOD MVCD6,6,530
+Inflammation,SREBF1,6720,sterol regulatory el,SREBP1 bHLHd1 SREBP-1c,17,3079
+Inflammation,TH,7054,tyrosine hydroxylase,"TYH,  DYT14,  DYT5b",11,307
+Inflammation,TLR4,7099,toll-like receptor 4,TOLL CD284 TLR-4 ARMD10,9,41317
+Inflammation,TNF,7124,tumor necrosis facto,DIF TNFA TNFSF2 TNF-alpha,6,496
+Inflammation,TNFRSF11B,4982,tumor necrosis facto,OPG TR1 OCIF PDB5,8,1912
+Inflammation,TNFRSF1B,7133,tumor necrosis facto,p75 TBPII TNFBR TNFR2 CD120b TNFR1B TNFR80 TNF-R75,1,829
+Inflammation,TRH,7200,thyrotropin-releasin,TRF Pro-TRH,3,5163
+Inflammation,TRPA1,8989,transient receptor p,FEPS ANKTM1,8,7189
+Inflammation,TRPV1,7442,transient receptor p,VR1,17,12920
+Inflammation,UCP2,7351,uncoupling protein 2,UCPH BMIQ4 SLC25A8,11,2516
+Inflammation,VEGFA,7422,vascular endothelial,VPF VEGF MVCD1,6,2534
+Inflammation,VIP,7432,vasoactive intestina,PHM27,6,2539
+Inflammation,VWF,7450,von Willebrand facto,VWD F8VWF,12,466
+Inflammation,XIAP,331,X-linked inhibitor o,API3 ILP1 MIHA XLP2 BIRC4 IAP-3 hIAP3 hIAP-3,X,901
+Obesity,ACE,1636,angiotensin I conver,DCP ICH ACE1 DCP1 CD143 MVCD3,17,37351
+Obesity,ADIPOQ,9370,"adiponectin, C1Q and",ACDC ADPN APM1 APM-1 GBP28 ACRP30 ADIPQTL1,3,3525
+Obesity,ADM,133,adrenomedullin,AM PAMP,11,873
+Obesity,AGER,177,advanced glycosylati,RAGE,6,883
+Obesity,ALB,213,albumin,"FDAH,  ALBA,  PRO0883,  PRO0903,  PRO1341",4,405
+Obesity,APLN,8862,apelin,"APEL,XNPEP2",X,8498
+Obesity,APOE,348,apolipoprotein E,AD2 LPG APO-E LDLCQ5,19,30951
+Obesity,ASPA,443,aspartoacylase,ASP ACY2,17,33
+Obesity,ATF3,467,activating transcrip,,1,1265
+Obesity,AVP,551,arginine vasopressin,VP ADH ARVP AVRP AVP-NPII,20,417
+Obesity,BDNF,627,brain-derived neurot,"ANON2,  BULN2",11,7245
+Obesity,CAV1,857,caveolin 1,CGL3 PPH3 BSCL3 LCCNS VIP21 MSTP085,7,1330
+Obesity,CCK,885,cholecystokinin,,3,583
+Obesity,CCL2,6347,chemokine (C-C motif,HC11 MCAF MCP1 MCP-1 SCYA2 GDCF-2 SMC-CF HSMCR30,17,2245
+Obesity,CNR1,1268,cannabinoid receptor,CB1 CNR CB-R CB1A CB1R CANN6 CB1K5,6,7273
+Obesity,CNTF,1270,ciliary neurotrophic,HCNTF,11,8288
+Obesity,CRK,1398,v-crk avian sarcoma ,p38 CRKII,17,81850
+Obesity,CRP,1401,"C-reactive protein, ",PTX1,1,128039
+Obesity,CXCL10,3627,chemokine (C-X-C mot,C7 IFI10 INP10 IP-10 crg-2 mob-1 SCYB10 gIP-10,4,1203
+Obesity,CXCL12,6387,chemokine (C-X-C mot,IRH PBSF SDF1 TLSF TPAR1 SCYB12,10,128606
+Obesity,CXCR2,3579,chemokine (C-X-C mot,CD182 IL8R2 IL8RA IL8RB CMKAR2 CDw128b,2,10439
+Obesity,CXCR4,7852,chemokine (C-X-C mot,FB22 HM89 LAP3 LCR1 NPYR WHIM CD184 LAP-3 LESTR NP,2,20739
+Obesity,DDIT3,1649,DNA damage inducible,CHOP CEBPZ CHOP10 CHOP-10 GADD153,12,3012
+Obesity,EDN1,1906,endothelin 1,ET1 QME PPET1 ARCND3 HDLCQ7,6,1476
+Obesity,ENPP2,5168,ectonucleotide pyrop,ATX NPP2 ATX-X PDNP2 LysoPLD AUTOTAXIN PD-IALPHA,8,4526
+Obesity,EPO,2056,erythropoietin,EP MVCD2,7,624
+Obesity,GGT1,2678,gamma-glutamyltransf,GGT GTG CD224 GGT 1 D22S672 D22S732,22,68450
+Obesity,GIP,2695,gastric inhibitory p,,17,3043
+Obesity,GIPR,2696,gastric inhibitory p,PGQTL2,19,20081
+Obesity,GLO1,2739,glyoxalase I,GLYI GLOD1 HEL-S-74,6,4880
+Obesity,GLP1R,2740,glucagon like peptid,,6,1558
+Obesity,HMGB1,3146,high mobility group ,HMG1 HMG3 HMG-1 SBP-1,13,110676
+Obesity,HMOX1,3162,heme oxygenase 1,HO-1 HSP32 HMOX1D bK286B10,22,31075
+Obesity,HNF4A,3172,hepatocyte nuclear f,TCF HNF4 MODY FRTS4 MODY1 NR2A1 TCF14 HNF4a7 HNF4a,20,395
+Obesity,HSPA5,3309,heat shock protein f,"BIP,  MIF2,  GRP78,  HEL-S-89n",9,3908
+Obesity,IGF1,3479,insulin like growth ,MGF IGFI IGF-I,12,515
+Obesity,IGF2,3481,insulin like growth ,GRDF IGF-II PP9974 C11orf43,11,510
+Obesity,IL10,3586,interleukin 10,CSIF TGIF GVHDS IL-10 IL10A,1,478
+Obesity,IL6,3569,interleukin 6,CDF HGF HSF BSF2 IL-6 BSF-2 IFNB2 IFN-beta-2,7,502
+Obesity,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Obesity,KCNJ11,3767,"potassium channel, i",BIR HHF2 PHHI IKATP TNDM3 KIR6.2 MODY13,11,441
+Obesity,LEP,3952,leptin,OB OBS LEPD,7,193
+Obesity,LMNA,4000,lamin A/C,FPL IDC LFP CDDC EMD2 FPLD HGPS LDP1 LMN1 LMNC PRO,1,41321
+Obesity,LPL,4023,lipoprotein lipase,LIPD HDLCQ11,8,200
+Obesity,MBL2,4153,mannose-binding lect,MBL MBP MBP1 MBPD MBL2D MBP-C COLEC1 HSMBPC,10,110436
+Obesity,MIF,4282,macrophage migration,GIF GLIF MMIF,22,55655
+Obesity,MME,4311,membrane metallo-end,NEP SFE CD10 CALLA,3,5275
+Obesity,MTHFR,4524,methylenetetrahydrof,,1,4349
+Obesity,NFE2L2,4780,"nuclear factor, eryt",NRF2 HEBP1,2,2412
+Obesity,NGF,4803,nerve growth factor ,NGFB HSAN5 Beta-NGF,1,1876
+Obesity,NOS1,4842,nitric oxide synthas,NOS bNOS nNOS IHPS1 N-NOS NC-NOS,12,37327
+Obesity,NOS3,4846,nitric oxide synthas,eNOS ECNOS,7,504
+Obesity,PECAM1,5175,platelet/endothelial,CD31 PECA1 GPIIA&apos; PECAM-1 endoCAM CD31/EndoCA,17,47925
+Obesity,POMC,5443,proopiomelanocortin,"LPH,  MSH,  NPP,  POC,  ACTH,  CLIP",2,723
+Obesity,PON1,5444,paraoxonase 1,ESA PON MVCD5,7,68058
+Obesity,PRKG1,5592,"protein kinase, cGMP",PKG cGK AAT8 cGK1 cGKI cGK 1 PRKG1B PRKGR1B cGKI-B,10,55964
+Obesity,PSMD9,5715,proteasome 26S subun,p27 Rpn4,12,2106
+Obesity,SERPINF1,5176,serpin peptidase inh,OI6 OI12 PEDF EPC-1 PIG35,17,1965
+Obesity,SLC2A4,6517,solute carrier famil,GLUT4,17,74381
+Obesity,SOD2,6648,superoxide dismutase,IPOB MNSOD MVCD6,6,530
+Obesity,SREBF1,6720,sterol regulatory el,SREBP1 bHLHd1 SREBP-1c,17,3079
+Obesity,TLR4,7099,toll-like receptor 4,TOLL CD284 TLR-4 ARMD10,9,41317
+Obesity,TNF,7124,tumor necrosis facto,DIF TNFA TNFSF2 TNF-alpha,6,496
+Obesity,TNFRSF11B,4982,tumor necrosis facto,OPG TR1 OCIF PDB5,8,1912
+Obesity,TNFRSF1B,7133,tumor necrosis facto,p75 TBPII TNFBR TNFR2 CD120b TNFR1B TNFR80 TNF-R75,1,829
+Obesity,TRH,7200,thyrotropin-releasin,TRF Pro-TRH,3,5163
+Obesity,TRPA1,8989,transient receptor p,"FEPS,  ANKTM1",8,7189
+Obesity,TRPV1,7442,transient receptor p,VR1,17,12920
+Obesity,TSPO,706,translocator protein,DBI IBP MBR PBR PBS BPBS BZRP PKBS PTBR mDRC pk18,22,574
+Obesity,UCP2,7351,uncoupling protein 2,UCPH BMIQ4 SLC25A8,11,2516
+Obesity,UNC13A,23025,unc-13 homolog A (C.,Munc13-1,19,11279
+Obesity,VEGFA,7422,vascular endothelial,VPF VEGF MVCD1,6,2534
+Obesity,VIP,7432,vasoactive intestina,PHM27,6,2539
+Obesity,VWF,7450,von Willebrand facto,VWD F8VWF,12,466
+Stress,ACE,1636,angiotensin I conver,DCP ICH ACE1 DCP1 CD143 MVCD3,17,37351
+Stress,ADIPOQ,9370,"adiponectin, C1Q and",ACDC ADPN APM1 APM-1 GBP28 ACRP30 ADIPQTL1,3,3525
+Stress,ADM,133,adrenomedullin,AM PAMP,11,873
+Stress,AGER,177,advanced glycosylati,RAGE,6,883
+Stress,AKR1B1,231,aldo-keto reductase ,AR ADR ALR2 ALDR1,7,133743
+Stress,ALDH2,217,aldehyde dehydrogena,ALDM ALDHI ALDH-E2,12,55480
+Stress,APOE,348,apolipoprotein E,AD2 LPG APO-E LDLCQ5,19,30951
+Stress,ATF3,467,activating transcrip,,1,1265
+Stress,ATP2A2,488,"ATPase, Ca++ transpo",DD DAR ATP2B SERCA2,12,80167
+Stress,AVP,551,arginine vasopressin,VP ADH ARVP AVRP AVP-NPII,20,417
+Stress,BDNF,627,brain-derived neurot,"ANON2, BULN2",11,7245
+Stress,CRK,1398,v-crk avian sarcoma ,p38 CRKII,17,81850
+Stress,CRP,1401,"C-reactive protein, ",PTX1,1,128039
+Stress,CXCL10,3627,chemokine (C-X-C mot,C7 IFI10 INP10 IP-10 crg-2 mob-1 SCYB10 gIP-10,4,1203
+Stress,DDIT3,1649,DNA damage inducible,CHOP CEBPZ CHOP10 CHOP-10 GADD153,12,3012
+Stress,EPO,2056,erythropoietin,EP MVCD2,7,624
+Stress,GGT1,2678,gamma-glutamyltransf,GGT GTG CD224 GGT 1 D22S672 D22S732,22,68450
+Stress,GLO1,2739,glyoxalase I,GLYI GLOD1 HEL-S-74,6,4880
+Stress,GLP1R,2740,glucagon like peptid,"GLP-1, GLP-1R, GLP-1-R",11,1558
+Stress,HMOX1,3162,heme oxygenase 1,HO-1 HSP32 HMOX1D bK286B10,22,31075
+Stress,HNF4A,3172,hepatocyte nuclear f,TCF HNF4 MODY FRTS4 MODY1 NR2A1 TCF14 HNF4a7 HNF4a,20,395
+Stress,IGF1,3479,insulin like growth ,MGF IGFI IGF-I,12,515
+Stress,IGF2,3481,insulin like growth ,GRDF IGF-II PP9974 C11orf43,11,510
+Stress,IL10,3586,interleukin 10,CSIF TGIF GVHDS IL-10 IL10A,1,478
+Stress,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Stress,LEP,3952,leptin,"OB, OBS, LEPD",7,193
+Stress,LPL,4023,lipoprotein lipase,LIPD HDLCQ11,8,200
+Stress,MIF,4282,macrophage migration,GIF GLIF MMIF,22,55655
+Stress,MTHFR,4524,methylenetetrahydrof,,1,4349
+Stress,NFE2L2,4780,"nuclear factor, eryt",NRF2 HEBP1,2,2412
+Stress,NGF,4803,nerve growth factor ,NGFB HSAN5 Beta-NGF,1,1876
+Stress,NGFR,4804,nerve growth factor ,CD271 p75NTR TNFRSF16 p75(NTR) Gp80-LNGFR,17,1877
+Stress,NOS1,4842,nitric oxide synthas,NOS bNOS nNOS IHPS1 N-NOS NC-NOS,12,37327
+Stress,NOS3,4846,nitric oxide synthas,eNOS ECNOS,7,504
+Stress,PON1,5444,paraoxonase 1,ESA PON MVCD5,7,68058
+Stress,PRKG1,5592,"protein kinase, cGMP",PKG cGK AAT8 cGK1 cGKI cGK 1 PRKG1B PRKGR1B cGKI-B,10,55964
+Stress,PTGS2,5743,prostaglandin-endope,COX2 COX-2 PHS-2 PGG/HS PGHS-2 hCox-2 GRIPGHS,1,31000
+Stress,RPS6KA6,27330,ribosomal protein S6,RSK4 PP90RSK4,X,22816
+Stress,SERPINF1,5176,serpin peptidase inh,OI6 OI12 PEDF EPC-1 PIG35,17,1965
+Stress,SLC2A3,6515,solute carrier famil,GLUT3,12,74302
+Stress,SLC2A4,6517,solute carrier famil,GLUT4,17,74381
+Stress,SOD2,6648,superoxide dismutase,IPOB MNSOD MVCD6,6,530
+Stress,SREBF1,6720,sterol regulatory el,SREBP1 bHLHd1 SREBP-1c,17,3079
+Stress,TH,7054,tyrosine hydroxylase,"TYH, DYT14, DYT5b",11,307
+Stress,TLR4,7099,toll-like receptor 4,TOLL CD284 TLR-4 ARMD10,9,41317
+Stress,TNF,7124,tumor necrosis facto,DIF TNFA TNFSF2 TNF-alpha,6,496
+Stress,TNFRSF11B,4982,tumor necrosis facto,OPG TR1 OCIF PDB5,8,1912
+Stress,TRPV1,7442,transient receptor p,VR1,17,12920
+Stress,TSPO,706,translocator protein,DBI IBP MBR PBR PBS BPBS BZRP PKBS PTBR mDRC pk18,22,574
+Stress,UCP2,7351,uncoupling protein 2,UCPH BMIQ4 SLC25A8,11,2516
+Stress,VEGFA,7422,vascular endothelial,VPF VEGF MVCD1,6,2534
+Stress,VIP,7432,vasoactive intestina,PHM27,6,2539
+Stress,XIAP,331,X-linked inhibitor o,API3 ILP1 MIHA XLP2 BIRC4 IAP-3 hIAP3 hIAP-3,X,901

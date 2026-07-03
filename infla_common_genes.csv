@@ -1,0 +1,159 @@
+Risk_factor/complication,Gene_symbol,Gene_ID,Gene_name,Gene_aliases,Chromosome,HomoloGene ID
+Atherosclerosis,ABCA1,19,ATP-binding cassette,"TGD, ABC1, CERP, ABC-1, HDLDT1",9,21130
+Atherosclerosis,ABCG1,9619,ATP-binding cassette,"ABC8, WHITE1",21,21022
+Atherosclerosis,CCL2,6347,chemokine (C-C motif,"HC11, MCAF, MCP1, MCP-1, SCYA2, GDCF-2, SMC-CF, HS",17,2245
+Atherosclerosis,CCR5,1234,chemokine (C-C motif,"CKR5, CCR-5, CD195, CKR-5, CCCKR5, CMKBR5, IDDM22,",3,37325
+Atherosclerosis,CD36,948,CD36 molecule (throm,"FAT, GP4, GP3B, GPIV, CHDS7, PASIV, SCARB3, BDPLT1",7,73871
+Atherosclerosis,FABP4,2167,fatty acid binding p,"aP2, ALBP, AFABP, A-FABP, HEL-S-104",8,36067
+Atherosclerosis,ICAM1,3383,intercellular adhesi,"BB2, CD54, P3.58",19,168
+Atherosclerosis,IL6,3569,interleukin 6 (inter,"HGF, HSF, BSF2, IL-6, IFNB2",7,502
+Atherosclerosis,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Atherosclerosis,PLTP,5360,phospholipid transfe,"BPIFE,HDLCQ9",20,4536
+Atherosclerosis,SIRT1,23411,sirtuin 1,SIR2L1,10,56556
+Atherosclerosis,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Atherosclerosis,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Atherosclerosis,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Cardiovascular,ABCG1,9619,ATP-binding cassette,"ABC8, WHITE1",21,21022
+Cardiovascular,CD36,948,CD36 molecule (throm,"FAT, GP4, GP3B, GPIV, CHDS7, PASIV, SCARB3, BDPLT1",7,73871
+Cardiovascular,CST3,1471,cystatin C,ARMD11,20,78
+Cardiovascular,FABP4,2167,fatty acid binding p,"aP2, ALBP, AFABP, A-FABP, HEL-S-104",8,36067
+Cardiovascular,PPARGC1A,10891,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Nephropathy,ABCA1,19,ATP-binding cassette,"TGD, ABC1, CERP, ABC-1, HDLDT1",9,21130
+Nephropathy,AKR1B1,231,aldo-keto reductase ,"AR, ADR, ALR2, ALDR1",7,110647
+Nephropathy,CCL2,6347,chemokine (C-C motif,"HC11, MCAF, MCP1, MCP-1, SCYA2, GDCF-2, SMC-CF, HS",17,2245
+Nephropathy,CCR5,1234,chemokine (C-C motif,"CKR5, CCR-5, CD195, CKR-5, CCCKR5, CMKBR5, IDDM22,",3,37325
+Nephropathy,CD36,948,CD36 molecule (throm,"FAT, GP4, GP3B, GPIV, CHDS7, PASIV, SCARB3, BDPLT1",7,73871
+Nephropathy,CD40LG,959,CD40 ligand,"IGM,IMD3,TRAP,gp39,CD154,
+CD40L,
+HIGM1,T-BAM,
+T",X,56
+Nephropathy,CRP,1401,"C-reactive protein, ",PTX1,1,128039
+Nephropathy,CX3CL1,6376,chemokine (C-X3-C mo,"NTN, NTT, CXC3, CXC3C, SCYD1, ABCD-3, C3Xkine, fra",16,2251
+Nephropathy,ENPP1,5167,ectonucleotide pyrop,"M6S1, NPP1, NPPS, PC-1, PCA1, ARHR2, COLED, PDNP1",6,38151
+Nephropathy,ENTPD1,953,ectonucleoside triph,"CD39,SPG64,ATPDase,NTPDase-1",10,20423
+Nephropathy,FABP4,2167,fatty acid binding p,"aP2, ALBP, AFABP, A-FABP, HEL-S-104",8,36067
+Nephropathy,HIF1A,3091,hypoxia inducible fa,"HIF1,MOP1,PASD8,HIF-1A,bHLHe78,
+HIF-1alpha,HIF1-A",14,1171
+Nephropathy,ICAM1,3383,intercellular adhesi,"BB2, CD54, P3.58",19,168
+Nephropathy,IL1B,3553,"interleukin 1, beta","IL-1, IL1F2, IL1-BETA",2,481
+Nephropathy,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Nephropathy,PPARG,5468,peroxisome prolifera,"GLM1, CIMT1, NR1C3, PPARG1, PPARG2, PPARgamma",3,7899
+Nephropathy,PPARGC1A,10891,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Nephropathy,SIRT1,23411,sirtuin 1,SIR2L1,10,56556
+Nephropathy,SOCS1,8651,suppressor of cytoki,"JAB,CIS1,SSI1,TIP3,CISH1,SSI-1,SOCS-1",16,2776
+Nephropathy,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Nephropathy,SOD2,6648,superoxide dismutase,"IPOB, MNSOD, MVCD6",6,530
+Nephropathy,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Nephropathy,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Nephropathy,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Neuropathy,AKR1B1,231,aldo-keto reductase ,"AR, ADR, ALR2, ALDR1",7,110647
+Neuropathy,CCL2,6347,chemokine (C-C motif,"HC11, MCAF, MCP1, MCP-1, SCYA2, GDCF-2, SMC-CF, HS",17,2245
+Neuropathy,CRP,1401,"C-reactive protein, ",PTX1,1,128039
+Neuropathy,CXCR2,3579,chemokine (C-X-C mot,"CD182, IL8R2, IL8RA, IL8RB, CMKAR2, CDw128b",2,10439
+Neuropathy,IFNG,3458,"interferon, gamma","IFG, IFI",12,55526
+Neuropathy,IL6,3569,interleukin 6 (inter,"HGF, HSF, BSF2, IL-6, IFNB2",7,502
+Neuropathy,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Neuropathy,SOD2,6648,superoxide dismutase,"IPOB, MNSOD, MVCD6",6,530
+Neuropathy,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Neuropathy,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Neuropathy,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Stress,AKT1,207,v-akt murine thymoma,"AKT,PKB,RAC,CWS6,PRKBA,
+PKB-ALPHA,RAC-ALPHA
+",14,3785
+Stress,CCL2,6347,chemokine (C-C motif,"HC11,MCAF,MCP1,MCP-1,SCYA2,
+GDCF-2,SMC-CF,HSMCR30",17,2245
+Stress,CD36,948,CD36 molecule,"FAT, GP3B, GP4, GPIV, SCARB3",7,73871
+Stress,GSTA4,2941,glutathione S-transf,"GTA4,GSTA4-4",6,55585
+Stress,IAPP,3375,islet amyloid polype,"DAP,IAP",12,36024
+Stress,INSR,3643,insulin receptor,"HHF5,CD220",19,20090
+Stress,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Stress,NFKB2,4791,nuclear factor of ka,"p52,p105,H2TF1,LYT10,
+CVID10,LYT-10,NF-kB2
+",10,1873
+Stress,PPARGC1A,10891,peroxisome prolifera,"LEM6,PGC1,PGC1A,PGC-1v,
+PPARGC1,PGC-1(alpha)
+",4,7485
+Stress,SOCS3,9021,suppressor of cytoki,"CIS3,SSI3,ATOD4,Cish3,SSI-3,SOCS-3",17,2941
+Stress,SOD2,6648,superoxide dismutase,"IPOB,MNSOD,MVCD6",6,530
+Stress,TLR4,7099,toll-like receptor 4,"TOLL,CD284,TLR-4,ARMD10",9,41317
+Stress,TNF,7124,tumor necrosis facto,"DIF,TNFA,TNFSF2,TNF-alpha",6,496
+Stress,UCP2,7351,uncoupling protein 2,"UCPH,BMIQ4,SLC25A8",11,2516
+Obesity,CCL2,6347,chemokine (C-C motif,"HC11,MCAF,MCP1,MCP-1,SCYA2,
+GDCF-2,SMC-CF,HSMCR30",17,2245
+Obesity,CCR5,1234,chemokine (C-C motif,"CKR5,CCR-5,CD195,CKR-5,CCCKR5,
+CMKBR5,IDDM22,CC-C",3,37325
+Obesity,CD36,948,CD36 molecule,"FAT, GP3B, GP4, GPIV, SCARB3",7,73871
+Obesity,CRP,1401,"C-reactive protein, ",PTX1,1,128039
+Obesity,CX3CL1,6376,chemokine (C-X3-C mo,"NTN,NTT,CXC3,CXC3C,SCYD1,ABCD-3,
+C3Xkine,fractalk",16,2251
+Obesity,CXCR2,3579,chemokine (C-X-C mot,"CD182,IL8R2,IL8RA,
+IL8RB,CMKAR2,CDw128b
+",2,10439
+Obesity,ENPP1,5167,ectonucleotide pyrop,"M6S1,NPP1,NPPS,PC-1,PCA1,
+ARHR2,COLED,PDNP1
+",6,38151
+Obesity,FSTL1,11167,follistatin-like 1,"FRP,FSL1,MIR198",3,5144
+Obesity,GPR21,2844,G protein-coupled re,,9,74546
+Obesity,IKBKB,3551,inhibitor of kappa l,"IKK2,IKKB,IMD15,NFKBIKB,IKK-beta",8,7782
+Obesity,IL1B,3553,"interleukin 1, beta","IL-1,IL1F2,IL1-BETA",2,481
+Obesity,IL6,3569,interleukin 6,"HGF,HSF,BSF2,IL-6,IFNB2",7,502
+Obesity,IRAK3,11213,interleukin-1 recept,"ASRT5,IRAKM",12,36215
+Obesity,IRF7,3665,interferon regulator,"IRF7A,IRF7B,IRF7C,IRF7H,IRF-7H",11,128624
+Obesity,KDM1A,23028,lysine (K)-specific ,"AOF2,KDM1,LSD1,BHC110",1,32240
+Obesity,MAPK8,5599,mitogen-activated pr,"JNK,JNK1,PRKM8,SAPK1,JNK-46,
+JNK1A2,SAPK1c,JNK21B",10,56760
+Obesity,PLTP,5360,phospholipid transfe,"BPIFE,HDLCQ9",20,4536
+Obesity,PPARG,5468,peroxisome prolifera,"GLM1,CIMT1,NR1C3,PPARG1,
+PPARG2,PPARgamma
+",3,7899
+Obesity,PPARGC1A,10891,peroxisome prolifera,"LEM6,PGC1,PGC1A,PGC-1v,
+PPARGC1,PGC-1(alpha)
+",4,7485
+Obesity,SIRT1,23411,sirtuin 1,SIR2L1,10,56556
+Obesity,SOCS3,9021,suppressor of cytoki,"CIS3,SSI3,ATOD4,Cish3,SSI-3,SOCS-3",17,2941
+Obesity,SOD2,6648,superoxide dismutase,"IPOB,MNSOD,MVCD6",6,530
+Obesity,STEAP4,79689,STEAP family member ,"TIARP,STAMP2,TNFAIP9",7,36422
+Obesity,TLR4,7099,toll-like receptor 4,"TOLL,CD284,TLR-4,ARMD10",9,41317
+Obesity,UCP2,7351,uncoupling protein 2,"UCPH,BMIQ4,SLC25A8",11,2516
+Diet,AKT1,207,v-akt murine thymoma,"AKT,PKB,RAC,CWS6,PRKBA,
+PKB-ALPHA,RAC-ALPHA
+",14,3785
+Diet,CCR5,1234,chemokine (C-C motif,"CKR5,CCR-5,CD195,CKR-5,CCCKR5,
+CMKBR5,IDDM22,CC-C",3,37325
+Diet,CD68,968,CD68 molecule,"GP110,LAMP4,SCARD1",17,955
+Diet,CXCR2,3579,chemokine (C-X-C mot,"CD182,IL8R2,IL8RA,
+IL8RB,CMKAR2,CDw128b
+",2,10439
+Diet,GPR21,2844,G protein-coupled re,,9,74546
+Diet,IAPP,3375,islet amyloid polype,"DAP,IAP",12,36024
+Diet,IKBKB,3551,inhibitor of kappa l,"IKK2,IKKB,IMD15,NFKBIKB,IKK-beta",8,7782
+Diet,IL1B,3553,"interleukin 1, beta","IL-1,IL1F2,IL1-BETA",2,481
+Diet,IL6,3569,interleukin 6,"HGF,HSF,BSF2,IL-6,IFNB2",7,502
+Diet,IRF7,3665,interferon regulator,"IRF7A,IRF7B,IRF7C,IRF7H,IRF-7H",11,128624
+Diet,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Diet,MAPK8,5599,mitogen-activated pr,"JNK,JNK1,PRKM8,SAPK1,JNK-46,
+JNK1A2,SAPK1c,JNK21B",10,56760
+Diet,PPARGC1A,10891,peroxisome prolifera,"LEM6,PGC1,PGC1A,PGC-1v,
+PPARGC1,PGC-1(alpha)
+",4,7485
+Diet,SIRT1,23411,sirtuin 1,SIR2L1,10,56556
+Diet,SOCS3,9021,suppressor of cytoki,"CIS3,SSI3,ATOD4,Cish3,SSI-3,SOCS-3",17,2941
+Diet,TLR4,7099,toll-like receptor 4,"TOLL,CD284,TLR-4,ARMD10",9,41317
+Diet,TNF,7124,tumor necrosis facto,"DIF,TNFA,TNFSF2,TNF-alpha",6,496
+Diet,UCP2,7351,uncoupling protein 2,"UCPH,BMIQ4,SLC25A8",11,2516
+Retinopathy,AKR1B1,231,aldo-keto reductase ,"AR,ADR,ALR2,ALDR1",7,110647
+Retinopathy,CCL2,6347,chemokine (C-C motif,"HC11,MCAF,MCP1,MCP-1,SCYA2,
+GDCF-2,SMC-CF,HSMCR30",17,2245
+Retinopathy,CRP,1401,"C-reactive protein, ",PTX1,1,128039
+Retinopathy,IL1B,3553,"interleukin 1, beta","IL-1,IL1F2,IL1-BETA",2,481
+Retinopathy,IL6,3569,interleukin 6,"HGF,HSF,BSF2,IL-6,IFNB2",7,502
+Retinopathy,PPARG,5468,peroxisome prolifera,"GLM1,CIMT1,NR1C3,PPARG1,
+PPARG2,PPARgamma
+",3,7899
+Retinopathy,SIRT1,23411,sirtuin 1,SIR2L1,10,56556
+Retinopathy,SOCS3,9021,suppressor of cytoki,"CIS3,SSI3,ATOD4,Cish3,SSI-3,SOCS-3",17,2941
+Retinopathy,SOD2,6648,superoxide dismutase,"IPOB,MNSOD,MVCD6",6,530
+Retinopathy,TLR4,7099,toll-like receptor 4,"TOLL,CD284,TLR-4,ARMD10",9,41317
+Retinopathy,TNF,7124,tumor necrosis facto,"DIF,TNFA,TNFSF2,TNF-alpha",6,496
+Retinopathy,UCP1,7350,uncoupling protein 1,"UCP,SLC25A7",4,22524
+Retinopathy,UCP2,7351,uncoupling protein 2,"UCPH,BMIQ4,SLC25A8",11,2516

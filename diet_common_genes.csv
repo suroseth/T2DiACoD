@@ -1,0 +1,119 @@
+Risk_factor/complication,Gene_symbol,Gene_ID,Gene_name,Gene_aliases,Chromosome,HomoloGene ID
+Atherosclerosis,AHSG,197,alpha-2-HS-glycoprot,"AHS, A2HS, HSGA, FETUA",3,1225
+Atherosclerosis,CCR5,1234,chemokine (C-C motif,"CKR5, CCR-5, CD195, CKR-5, CCCKR5, CMKBR5, IDDM22,",3,37325
+Atherosclerosis,IL6,3569,interleukin 6 (inter,"HGF, HSF, BSF2, IL-6, IFNB2",7,502
+Atherosclerosis,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Atherosclerosis,LPL,4023,lipoprotein lipase,"LIPD, HDLCQ11",8,200
+Atherosclerosis,PON1,5444,paraoxonase 1,"ESA, PON, MVCD5",7,68058
+Atherosclerosis,PPARA,5465,peroxisome prolifera,"PPAR, NR1C1, hPPAR, PPARalpha",22,21047
+Atherosclerosis,RBP4,5950,retinol binding prot,RDCCAS,10,4908
+Atherosclerosis,SIRT1,23411,sirtuin 1,SIR2L1,10,56556
+Atherosclerosis,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Atherosclerosis,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Atherosclerosis,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Atherosclerosis,TRPC6,7225,transient receptor potential cation channel subfamily C member 6,"TRP6, FSGS2",11,37944
+Cardiovascular,APOE,348,apolipoprotein E,"AD2, LPG, LDLCQ5",19,30951
+Cardiovascular,PON1,5444,paraoxose 1,"ESA, PON, MVCD5",7,68058
+Cardiovascular,PPARGC1A,10891,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Cardiovascular,RBP4,5950,retinol binding prot,RDCCAS,10,4908
+Cardiovascular,TRIM72,493829,tripartite motif containing 72,MG53,16,66924
+Inflammation,AKT1,207,v-akt murine thymoma,"AKT,PKB,RAC,CWS6,PRKBA,
+PKB-ALPHA,RAC-ALPHA
+",14,3785
+Inflammation,CCR5,1234,chemokine (C-C motif,"CKR5,CCR-5,CD195,CKR-5,CCCKR5,
+CMKBR5,IDDM22,CC-C",3,37325
+Inflammation,CD68,968,CD68 molecule,"GP110,LAMP4,SCARD1",17,955
+Inflammation,CXCR2,3579,chemokine (C-X-C mot,"CD182,IL8R2,IL8RA,
+IL8RB,CMKAR2,CDw128b
+",2,10439
+Inflammation,GPR21,2844,G protein-coupled re,,9,74546
+Inflammation,IAPP,3375,islet amyloid polype,"DAP,IAP",12,36024
+Inflammation,IKBKB,3551,inhibitor of kappa l,"IKK2,IKKB,IMD15,NFKBIKB,IKK-beta",8,7782
+Inflammation,IL1B,3553,"interleukin 1, beta","IL-1,IL1F2,IL1-BETA",2,481
+Inflammation,IL6,3569,interleukin 6,"HGF,HSF,BSF2,IL-6,IFNB2",7,502
+Inflammation,IRF7,3665,interferon regulator,"IRF7A,IRF7B,IRF7C,IRF7H,IRF-7H",11,128624
+Inflammation,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Inflammation,MAPK8,5599,mitogen-activated pr,"JNK,JNK1,PRKM8,SAPK1,JNK-46,
+JNK1A2,SAPK1c,JNK21B",10,56760
+Inflammation,PPARGC1A,10891,peroxisome prolifera,"LEM6,PGC1,PGC1A,PGC-1v,
+PPARGC1,PGC-1(alpha)
+",4,7485
+Inflammation,SIRT1,23411,sirtuin 1,SIR2L1,10,56556
+Inflammation,SOCS3,9021,suppressor of cytoki,"CIS3,SSI3,ATOD4,Cish3,SSI-3,SOCS-3",17,2941
+Inflammation,TLR4,7099,toll-like receptor 4,"TOLL,CD284,TLR-4,ARMD10",9,41317
+Inflammation,TNF,7124,tumor necrosis facto,"DIF,TNFA,TNFSF2,TNF-alpha",6,496
+Inflammation,UCP2,7351,uncoupling protein 2,"UCPH,BMIQ4,SLC25A8",11,2516
+Nephropathy,APOE,348,apolipoprotein E,"AD2, LPG, LDLCQ5",19,30951
+Nephropathy,CCR5,1234,chemokine (C-C motif,"CKR5, CCR-5, CD195, CKR-5, CCCKR5, CMKBR5, IDDM22,",3,37325
+Nephropathy,IL1B,3553,"interleukin 1, beta","IL-1, IL1F2, IL1-BETA",2,481
+Nephropathy,IL1RN,3557,interleukin 1 recept,"DIRA, IRAP, IL1F3, IL1RA, MVCD4, IL-1RN, IL-1ra, I",2,11163
+Nephropathy,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Nephropathy,LPL,4023,lipoprotein lipase,"LIPD, HDLCQ11",8,200
+Nephropathy,PON1,5444,paraoxonase 1,"ESA, PON, MVCD5",7,68058
+Nephropathy,PPARGC1A,10891,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Nephropathy,SIRT1,23411,sirtuin 1,SIR2L1,10,56556
+Nephropathy,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Nephropathy,SREBF1,6720,sterol regulatory el,"SREBP1, bHLHd1, SREBP-1c",17,3079
+Nephropathy,TGFB1,7040,transforming growth ,"CED, LAP, DPD1, TGFB, TGFbeta",19,540
+Nephropathy,TLR2,7097,toll-like receptor 2,"TIL4, CD282",4,20695
+Nephropathy,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Nephropathy,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Nephropathy,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Nephropathy,TRPC6,7225,transient receptor potential cation channel subfamily C member 6,"TRP6, FSGS2",11,37944
+Neuropathy,APOE,348,apolipoprotein E,"AD2, LPG, LDLCQ5",19,30951
+Neuropathy,CXCR2,3579,chemokine (C-X-C mot,"CD182, IL8R2, IL8RA, IL8RB, CMKAR2, CDw128b",2,10439
+Neuropathy,IL6,3569,interleukin 6 (inter,"HGF, HSF, BSF2, IL-6, IFNB2",7,502
+Neuropathy,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Neuropathy,LPL,4023,lipoprotein lipase,"LIPD, HDLCQ11",8,200
+Neuropathy,PON1,5444,paraoxonase 1,"ESA, PON, MVCD5",7,68058
+Neuropathy,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Neuropathy,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Neuropathy,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Neuropathy,BDNF,627,brain derived neurotrophic factor,"ANON2, BULN2",11,7245
+Obesity,AHSG,197,alpha-2-HS-glycoprot,"AHS, A2HS, HSGA, FETUA",3,1225
+Obesity,APOE,348,apolipoprotein E,"AD2, LPG, LDLCQ5",19,30951
+Obesity,CCR5,1234,chemokine (C-C motif,"CKR5, CCR-5, CD195, CKR-5, CCCKR5, CMKBR5, IDDM22,",3,37325
+Obesity,CXCR2,3579,chemokine (C-X-C mot,"CD182, IL8R2, IL8RA, IL8RB, CMKAR2, CDw128b",2,10439
+Obesity,GPR21,2844,G protein-coupled re,,9,74546
+Obesity,IGF1R,3480,insulin-like growth ,"IGFR, CD221, IGFIR, JTK13",15,30997
+Obesity,IKBKB,3551,inhibitor of kappa l,"IKK2, IKKB, IMD15, NFKBIKB, IKK-beta",8,7782
+Obesity,IL1B,3553,"interleukin 1, beta","IL-1, IL1F2, IL1-BETA",2,481
+Obesity,IL6,3569,interleukin 6 (inter,"HGF, HSF, BSF2, IL-6, IFNB2",7,502
+Obesity,IRF7,3665,interferon regulator,"IRF7A, IRF7B, IRF7C, IRF7H, IRF-7H",11,128624
+Obesity,LETM1,3954,leucine zipper-EF-ha,,4,56320
+Obesity,MAPK8,5599,mitogen-activated pr,"JNK, JNK1, PRKM8, SAPK1, JNK-46, JNK1A2, SAPK1c, J",10,56760
+Obesity,NR1H3,10062,nuclear receptor sub,"LXRA, LXR-a, RLD-1",11,21165
+Obesity,NR4A1,3164,nuclear receptor sub,"HMR, N10, TR3, NP10, GFRP1, NAK-1, NGFIB, NUR77",12,1612
+Obesity,PIK3R1,5295,phosphoinositide-3-k,"p85, AGM7, GRB1, p85-ALPHA",5,7889
+Obesity,PPARGC1A,10891,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Obesity,RBP4,5950,retinol binding prot,RDCCAS,10,4908
+Obesity,SIRT1,23411,sirtuin 1,SIR2L1,10,56556
+Obesity,SLC2A4,6517,solute carrier famil,GLUT4,17,74381
+Obesity,SLC2A4,6517,solute carrier famil,GLUT4,17,74381
+Obesity,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Obesity,THEM4,117145,thioesterase superfa,CTMP,1,14208
+Obesity,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Obesity,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Retinopathy,IGF1R,3480,insulin-like growth ,"IGFR, CD221, IGFIR, JTK13",15,30997
+Retinopathy,IL1B,3553,"interleukin 1, beta","IL-1, IL1F2, IL1-BETA",2,481
+Retinopathy,IL6,3569,interleukin 6 (inter,"HGF, HSF, BSF2, IL-6, IFNB2",7,502
+Retinopathy,IRS1,3667,insulin receptor sub,HIRS-1,2,4049
+Retinopathy,PON1,5444,paraoxonase 1,"ESA, PON, MVCD5",7,68058
+Retinopathy,SIRT1,23411,sirtuin 1,SIR2L1,10,56556
+Retinopathy,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Retinopathy,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Retinopathy,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Retinopathy,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Retinopathy,BDNF,627,brain derived neurotrophic factor,"ANON2, BULN2",11,7245
+Stress,AKT1,207,v-akt murine thymoma,"AKT, PKB, RAC, CWS6, PRKBA, PKB-ALPHA, RAC-ALPHA",14,3785
+Stress,IAPP,3375,islet amyloid polype,"DAP, IAP",12,36024
+Stress,IRS1,3667,insulin receptor sub,HIRS-1,2,4049
+Stress,IRS2,8660,insulin receptor sub,IRS-2,13,2778
+Stress,PDX1,3651,pancreatic and duode,"GSF, IPF1, IUF1, IDX-1, MODY4, PDX-1, STF-1",13,175
+Stress,PPARGC1A,10891,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Stress,PRSS8,5652,"protease, serine, 8","CAP1, PROSTASIN",16,20613
+Stress,SLC2A4,6517,solute carrier famil,GLUT4,17,74381
+Stress,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Stress,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Stress,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Stress,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516

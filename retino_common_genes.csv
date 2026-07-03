@@ -1,0 +1,162 @@
+Risk_factor/complication,Gene_symbol,Gene_ID,Gene_name,Gene_aliases,Chromosome,HomoloGene ID
+Diet,ABCC11,85320,ATP binding cassette,"WW, EWWD, MRP8",16,69511
+Diet,ACE,1636,Angiotensin I conver,DCP ACE1 DCP1 CD143,17,37351
+Diet,ACE2,59272,angiotensin I conver,ACEH,X,41448
+Diet,ADIPOQ,9370,"adiponectin, C1Q and","ACDC,  ADPN,  APM1,  APM-1,  GBP28,  ACRP30,  ADIP",3,3525
+Diet,AQP1,358,aquaporin 1 (Colton ,"CO,  CHIP28,  AQP-CHIP",7,68051
+Diet,ATF4,468,activating transript,"CREB2, TXREB, CREB-2, TAXREB67",22,1266
+Diet,BDNF,627,brain-derived neurot,"ANON2, BULN2",11,7245
+Diet,CAT,847,catalase,,11,55514
+Diet,CCL2,6347,chemokine (C-C motif,"HC11, MCAF, MCP1, MCP-1, SCYA2, GDCF-2, SMC-CF, HS",17,2245
+Diet,CRK,1398,v-crk avian sarcoma ,"p38, CRKII",17,81850
+Diet,CRP,1401,"C-reactive protein, ",PTX1,1,128039
+Diet,CTGF,1490,connective tissue gr,"CCN2, NOV2, HCS24, IGFBP8",6,1431
+Diet,EPO,2056,erythropoietin,"EP,  MVCD2",7,624
+Diet,FGF21,26291,fibroblast growth fa,NONE,19,10428
+Diet,GAD1,2571,glutamate decarboxyl,"GAD, SCP, CPSQ1",2,635
+Diet,GFAP,2670,glial fibrillary aci,ALXDRD,17,1554
+Diet,GIPR,2696,gastric inhibitory p,PGQTL2,19,20081
+Diet,IL17A,3605,interleukin 17A,"IL17,  CTLA8,  IL-17,  CTLA-8,  IL-17A",6,1651
+Diet,IL1B,3553,interleukin 1 beta,IL-1 IL1F2 IL1beta IL1-BETA,2,481
+Diet,INS,3630,insulin,"IDDM,  ILPR,  IRDN,  IDDM1,  IDDM2,  MODY10",11,173
+Diet,IRS1,3667,insulin receptor sub,HIRS-1,2,4049
+Diet,JAZF1,221895,JAZF zinc finger 1,TIP27 ZNF802,7,18291
+Diet,NOS1,4842,nitric oxide synthas,"NOS, bNOS, nNOS, IHPS1, N-NOS, NC-NOS",12,37327
+Diet,NOS3,4846,nitric oxide synthas,"eNOS,  ECNOS",7,504
+Diet,NPY,4852,neuropeptide Y,PYY4,7,697
+Diet,NUCB2,4925,nucleobindin 2,"NEFA,  HEL-S-109",11,3676
+Diet,POLR2D,5433,polymerase (R) II (D,"RBP4,  RPB16,  HSRBP4,  HSRPB4",2,37968
+Diet,PON1,5444,paraoxonase 1,"ESA, PON, MVCD5",7,68058
+Diet,RELA,5970,v-rel avian reticulo,"p65,  NFKB3",11,32064
+Diet,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Diet,SPP1,6696,secreted phosphoprot,"OPN, BNSP, BSPI, ETA-1",4,20156
+Diet,STAT3,6774,signal transducer an,"APRF, HIES, ADMIO",17,7960
+Diet,TCF7L2,6934,transcription factor,"TCF4, TCF-4",10,7564
+Diet,TIMP1,7076,TIMP metallopeptidas,"EPA,  EPO,  HCI,  CLGI,  TIMP",X,36321
+Diet,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Diet,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Diet,TNFRSF11B,4982,tumor necrosis facto,"OPG, TR1, OCIF, PDB5",8,1912
+Diet,UCP1,7350,uncoupling protein 1,"UCP, SLC25A7",4,22524
+Diet,VEGFA,7422,vascular endothelial,"VPF, VEGF, MVCD1",6,2534
+Inflammation,AAVS1,17,adeno-associated vir,AAV,19,
+Inflammation,ACE,1636,angiotensin I conver,"DCP, ICH, ACE1, DCP1, CD143, MVCD3",17,37351
+Inflammation,ADIPOQ,9370,"adiponectin, C1Q and","ACDC,  ADPN,  APM1,  APM-1,  GBP28,  ACRP30,  ADIP",3,3525
+Inflammation,ADM,133,adrenomedullin,"AM, PAMP",11,873
+Inflammation,AKR1B1,231,aldo-keto reductase ,"AR, ADR, ALR2, ALDR1",7,133743
+Inflammation,ANGPTL4,51129,angiopoietin like 4,"NL2, ARP4, FIAF, HARP, PGAR, HFARP, TGQTL, UNQ171,",19,10755
+Inflammation,APOE,348,apolipoprotein E,"AD2, LPG, LDLCQ5",19,30951
+Inflammation,AQP4,361,aquaporin 4,"MIWC, WCH4",18,37507
+Inflammation,BDNF,627,brain-derived neurot,"ANON2,  BULN2",11,7245
+Inflammation,CAT,847,catalase,,11,55514
+Inflammation,CCL2,6347,chemokine (C-C motif,"HC11, MCAF, MCP1, MCP-1, SCYA2, GDCF-2, SMC-CF, HS",17,2245
+Inflammation,CNR1,1268,cannabinoid receptor,"CB1, CNR, CB-R, CB1A, CB1R, CANN6, CB1K5",6,7273
+Inflammation,CRK,1398,v-crk avian sarcoma ,"p38, CRKII",17,81850
+Inflammation,CRP,1401,"C-reactive protein, ",PTX1,1,128039
+Inflammation,DKK1,22943,dickkopf WNT signali,"SK, DKK-1",10,7689
+Inflammation,ENG,2022,endoglin,"END,  HHT1,  ORW1",9,92
+Inflammation,EPO,2056,erythropoietin,"EP, MVCD2",7,624
+Inflammation,FFAR1,2864,free fatty acid rece,"FFA1R,  GPR40,  GPCR40",19,3876
+Inflammation,FGF21,26291,fibroblast growth fa,NONE,19,10428
+Inflammation,GLP1R,2740,glucagon like peptid,"GLP-1, GLP-1R, GLP-1-R",6,1558
+Inflammation,GSTM1,2944,glutathione S-transf,"MU, H-B, GST1, GTH4, GTM1, MU-1, GSTM1-1, GSTM1a-1",1,121492
+Inflammation,GSTT1,2952,glutathione S-transf,,22,134739
+Inflammation,HMGB1,3146,high mobility group ,"HMG1, HMG3, HMG-1, SBP-1",13,110676
+Inflammation,IGF1R,3480,insulin like growth ,"IGFR, CD221, IGFIR, JTK13",15,30997
+Inflammation,IL17A,3605,interleukin 17A,"IL17,  CTLA8,  IL-17,  CTLA-8,  IL-17A",6,1651
+Inflammation,IL18,3606,interleukin 18,"IGIF,  IL-18,  IL-1g,  IL1F4",11,1200
+Inflammation,IL6,3569,interleukin 6,"CDF, HGF, HSF, BSF2, IL-6, BSF-2, IFNB2, IFN-beta-",7,502
+Inflammation,INS,3630,insulin,"IDDM,  ILPR,  IRDN,  IDDM1,  IDDM2,  MODY10",11,173
+Inflammation,IRS1,3667,insulin receptor sub,HIRS-1,2,4049
+Inflammation,ITGA2,3673,integrin subunit alp,"BR, GPIa, CD49B, HPA-5, VLA-2, VLAA2",5,1662
+Inflammation,ITGAM,3684,integrin subunit alp,"CR3A, MO1A, CD11B, MAC-1, MAC1A, SLEB6",16,526
+Inflammation,KHSRP,8570,KH-type splicing reg,"FBP2, KSRP, FUBP2",19,2734
+Inflammation,MTHFR,4524,methylenetetrahydrof,,1,4349
+Inflammation,NOS1,4842,nitric oxide synthas,"NOS,  bNOS,  nNOS,  IHPS1,  N-NOS,  NC-NOS",12,37327
+Inflammation,NUCB2,4925,nucleobindin 2,"NEFA,  HEL-S-109",11,3676
+Inflammation,POLR2D,5433,polymerase (R) II (D,"RBP4,  RPB16,  HSRBP4,  HSRPB4",2,37968
+Inflammation,PON1,5444,paraoxonase 1,"ESA, PON, MVCD5",7,68058
+Inflammation,POSTN,10631,"periostin, osteoblas","PN,  OSF2,  OSF-2,  PDLPOSTN",13,4730
+Inflammation,PPARG,5468,peroxisome prolifera,"GLM1, CIMT1, NR1C3, PPARG1, PPARG2, PPARgamma",3,7899
+Inflammation,PPARGC1A,10891,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Inflammation,PTGS2,5743,prostaglandin-endope,"COX2, COX-2, PHS-2, PGG/HS, PGHS-2, hCox-2, GRIPGH",1,31000
+Inflammation,PTX3,5806,pentraxin 3,"TSG-14, TNFAIP5",3,7500
+Inflammation,RBP4,5950,retinol binding prot,"RDCCAS,  MCOPCB10",10,4908
+Inflammation,RELA,5970,v-rel avian reticulo,"p65,  NFKB3",11,32064
+Inflammation,SAA1,6288,Serum amyloid A,SAA PIG4 SAA2 TP53I4,11,128033
+Inflammation,SIRT1,23411,sirtuin 1,"SIR2, SIR2L1, SIR2alpha",10,56556
+Inflammation,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Inflammation,SPP1,6696,secreted phosphoprot,"OPN, BNSP, BSPI, ETA-1",4,20156
+Inflammation,STAT3,6774,signal transducer an,"APRF, HIES, ADMIO",17,7960
+Inflammation,TCF7L2,6934,transcription factor,"TCF4, TCF-4",10,7564
+Inflammation,TH,7054,tyrosine hydroxylase,"TYH,  DYT14,  DYT5b",11,307
+Inflammation,TIMP3,7078,TIMP metallopeptidas,"SFD, K222, K222TA2, HSMRK222",22,36322
+Inflammation,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Inflammation,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Inflammation,TXNIP,10628,thioredoxin interact,"THIF,  VDUP1,  HHCPA78,  EST01027",1,38186
+Inflammation,VEGFA,7422,vascular endothelial,"VPF, VEGF, MVCD1",6,2534
+Obesity,AAVS1,17,adeno-associated vir,AAV,19,
+Obesity,ABCB7,22,ATP binding cassette,"ABC7, ASAT, Atm1p, EST140535",X,3175
+Obesity,ABCC11,85320,ATP binding cassette,"WW, EWWD, MRP8",16,69511
+Obesity,ADIPOQ,9370,"adiponectin, C1Q and","ACDC, ADPN, APM1, APM-1, GBP28, ACRP30, ADIPQTL1",3,3525
+Obestiy,ANGPTL4,51129,angiopoietin-like 4,"NL2,  ARP4,  FIAF,  HARP,  PGAR,  HFARP,  TGQTL,  ",19,10755
+Obestiy,BDNF,627,brain-derived neurot,"ANON2,  BULN2",11,7245
+Obesity,CAT,847,catalase,NA,11,55514
+Obesity,CRK,1398,v-crk avian sarcoma ,"p38, CRKII",17,81850
+Obesity,CXCL8,3576,chemokine (C-X-C mot,"IL8, NAF, GCP1, LECT, LUCT, NAP1, GCP-1, LYNAP, MD",4,47937
+Obesity,CYP2C19,1557,cytochrome P450 fami,"CPCJ, CYP2C, P450C2C, CYPIIC17, CYPIIC19, P450IIC1",10,133565
+Obesity,GAPDH,2597,glyceraldehyde-3-pho,"G3PD, GAPD, HEL-S-162eP",12,107053
+Obestiy,GIPR,2696,gastric inhibitory p,PGQTL2,19,20081
+Obestiy,HFE,3077,hemochromatosis,"HH, HFE1, HLA-H, MVCD7, TFQTL2",6,88330
+Obestiy,INS,3630,insulin,"IDDM,  ILPR,  IRDN,  IDDM1,  IDDM2,  MODY10",11,173
+Obestiy,IRS1,3667,insulin receptor sub,HIRS-1,2,4049
+Obesity,ITGAM,3684,integrin subunit alp,"CR3A, MO1A, CD11B, MAC-1, MAC1A, SLEB6",16,526
+Obestiy,LPO,4025,lactoperoxidase,SPO,17,21240
+Obesity,NOS3,4846,nitric oxide synthas,"eNOS, ECNOS",7,504
+Obesity,NPY,4852,neuropeptide Y,PYY4,7,697
+Obesity,NUCB2,4925,nucleobindin 2,"NEFA, HEL-S-109",11,3676
+Obestiy,POLR2D,5433,polymerase (R) II (D,"RBP4,  RPB16,  HSRBP4,  HSRPB4",2,37968
+Obesity,PON1,5444,paraoxonase 1,"ESA, PON, MVCD5",7,68058
+Obestiy,POSTN,10631,"periostin, osteoblas","PN,  OSF2,  OSF-2,  PDLPOSTN",13,4730
+Obesity,PPARG,5468,peroxisome prolifera,"GLM1, CIMT1, NR1C3, PPARG1, PPARG2, PPARgamma",3,7899
+Obesity,PPARGC1A,10891,peroxisome prolifera,"LEM6, PGC1, PGC1A, PGC-1v, PPARGC1, PGC-1(alpha)",4,7485
+Obesity,SERPINF1,5176,serpin peptidase inh,"OI6, OI12, PEDF, EPC-1, PIG35",17,1965
+Obesity,SIRT1,23411,sirtuin 1,"SIR2, SIR2L1, SIR2alpha",10,56556
+Obesity,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Obesity,SPP1,6696,secreted phosphoprot,"OPN, BNSP, BSPI, ETA-1",4,20156
+Obesity,TCF7L2,6934,transcription factor,"TCF4, TCF-4",10,7564
+Obesity,TLR4,7099,toll-like receptor 4,"TOLL, CD284, TLR-4, ARMD10",9,41317
+Obesity,TNF,7124,tumor necrosis facto,"DIF, TNFA, TNFSF2, TNF-alpha",6,496
+Obesity,TNFRSF11B,4982,tumor necrosis facto,"OPG, TR1, OCIF, PDB5",8,1912
+Obesity,UCP1,7350,uncoupling protein 1,"UCP, SLC25A7",4,22524
+Obesity,UCP2,7351,uncoupling protein 2,"UCPH, BMIQ4, SLC25A8",11,2516
+Obesity,UTS2,10911,urotensin 2,"UII, U-II, UCN2, PRO1068",1,4939
+Obesity,VEGFA,7422,vascular endothelial,"VPF, VEGF, MVCD1",6,2534
+Obestiy,XRCC1,7515,X-ray repair complem,RCC,19,31368
+Stress,ACE,1636,angiotensin I conver,"DCP, ICH, ACE1, DCP1, CD143, MVCD3",17,37351
+Stress,ADM,133,adrenomedullin,"AM, PAMP",11,873
+Stress,BDNF,627,brain-derived neurot,"ANON2, BULN2",11,7245
+Stress,CRK,1398,v-crk avian sarcoma ,"p38, CRKII",17,81850
+Stress,CRP,1401,"C-reactive protein, ",PTX1,1,128039
+Stress,EPO,2056,erythropoietin,"EP, MVCD2",7,624
+Stress,GCG,2641,glucagon,"GLP1,GLP2,GRPP",2,136497
+Stress,GLP1R,2740,glucagon like peptid,"GLP-1, GLP-1R, GLP-1-R",11,1558
+Stress,GSTT1,2952,glutathione S-transf,,22,134739
+Stress,IRS1,3667,insulin receptor sub,HIRS-1,2,4049
+Stress,LPO,4025,lactoperoxidase,SPO,17,21240
+Stress,MTHFR,4524,methylenetetrahydrof,,1,4349
+Stress,NFE2L2,4780,"nuclear factor, eryt","NRF2, HEBP1",2,2412
+Stress,NOS1,4842,nitric oxide synthas,"NOS, bNOS, nNOS, IHPS1, N-NOS, NC-NOS",12,37327
+Stress,NPY,4852,neuropeptide Y,PYY4,7,697
+Stress,PON1,5444,paraoxonase 1,"ESA, PON, MVCD5",7,68058
+Stress,PPARG,5468,peroxisome prolifera,"GLM1, CIMT1, NR1C3, PPARG1, PPARG2, PPARgamma",3,7899
+Stress,RELA,5970,v-rel avian reticulo,"p65, NFKB3",11,32064
+Stress,SERPINF1,5176,serpin peptidase inh,"OI6, OI12, PEDF, EPC-1, PIG35",17,1965
+Stress,SIRT1,23411,sirtuin 1,"SIR2, SIR2L1, SIR2alpha",10,56556
+Stress,SOCS3,9021,suppressor of cytoki,"CIS3, SSI3, ATOD4, Cish3, SSI-3, SOCS-3",17,2941
+Stress,SOD2,6648,superoxide dismutase,"IPOB, MNSOD, MVCD6",6,530
+Stress,SPP1,6696,secreted phosphoprot,"OPN, BNSP, BSPI, ETA-1",4,20156
+Stress,TH,7054,tyrosine hydroxylase,"TYH, DYT14, DYT5b",11,307
+Stress,TIMP3,7078,TIMP metallopeptidas,"SFD, K222, K222TA2, HSMRK222",22,36322
+Stress,TNFRSF11B,4982,tumor necrosis facto,"OPG, TR1, OCIF, PDB5",8,1912
+Stress,UCP1,7350,uncoupling protein 1,"UCP, SLC25A7",4,22524
+Stress,VEGFA,7422,vascular endothelial,"VPF, VEGF, MVCD1",6,2534
